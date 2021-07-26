@@ -6,7 +6,7 @@ title: "Relative Neural Architecture Search via Slow-Fast Learning"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Hao Tan
-- Ran Cheng
+- admin
 - Shihua Huang
 - Cheng He
 - Changxiao Qiu
@@ -15,7 +15,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- "e.g. Equal contribution"
 
 date: "2021-08-01T00:00:00Z"
 doi: ""
