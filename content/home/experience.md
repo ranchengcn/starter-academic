@@ -25,7 +25,6 @@ experience:
   - title: Visiting Scholar, Honda Research Institute Europe, Germany.
     company: Honda
     company_url: ''
-    company_logo: none
     location: Germany
     date_start: '2013'
     date_end: '2016'
@@ -39,7 +38,6 @@ experience:
   - title: Research Fellow, University of Birmingham, UK.
     company: University of Birmingham
     company_url: ''
-    company_logo: none
     location: UK
     date_start: '2016'
     date_end: '2018'
