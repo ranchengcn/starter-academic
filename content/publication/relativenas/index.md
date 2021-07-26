@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Neural Networks and Learning Systems
-publication_short: 
+publication_short: ''
 
 abstract: write sbstract herer
 
