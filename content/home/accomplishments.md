@@ -24,25 +24,25 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2018"
+  date_start: "2018-01-01"
   description: ""
   organization: 'IEEE'
   title: 'IEEE Transactions on Evolutionary Computation Outstanding Paper Award'
   url: ""
 - date_end: ""
-  date_start: "2019"
+  date_start: "2019-01-01"
   description: ""
   organization: 'IEEE'
   title: 'IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award'
   url: ""
 - date_end: ""
-  date_start: "2020"
+  date_start: "2020-01-01"
   description: ""
   organization: 'IEEE'
   title: 'IEEE Computational Intelligence Magazine Outstanding Paper Award'
   url: ""
 - date_end: ""
-  date_start: "2021"
+  date_start: "2021-01-01"
   description: ""
   organization: 'IEEE'
   title: 'IEEE Transactions on Evolutionary Computation Outstanding Paper Award'
