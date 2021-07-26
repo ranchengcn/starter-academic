@@ -1,5 +1,5 @@
 ---
-role: Associate Professor (Tenured)
+role: "Associate Professor (Tenured) "
 bio: ""
 interests:
   - Computational Intelligence
@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ranchengcn@gmail.com
+    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=bjeIdlcAAAAJ&hl=en
