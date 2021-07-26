@@ -1,7 +1,6 @@
 ---
 role: Associate Professor (Tenured)
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Computational Intelligence
   - Evolutionary Computation
