@@ -26,25 +26,25 @@ item:
 - date_end: ""
   date_start: "2018"
   description: ""
-  organization: IEEE
+  organization: 'IEEE'
   title: 'IEEE Transactions on Evolutionary Computation Outstanding Paper Award'
   url: ""
 - date_end: ""
   date_start: "2019"
   description: ""
-  organization: IEEE
+  organization: 'IEEE'
   title: 'IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award'
   url: ""
 - date_end: ""
   date_start: "2020"
   description: ""
-  organization: IEEE
+  organization: 'IEEE'
   title: 'IEEE Computational Intelligence Magazine Outstanding Paper Award'
   url: ""
 - date_end: ""
   date_start: "2021"
   description: ""
-  organization: IEEE
+  organization: 'IEEE'
   title: 'IEEE Transactions on Evolutionary Computation Outstanding Paper Award'
   url: ""
 
