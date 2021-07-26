@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Scholar, Honda Research Institute Europe, Germany.
-    company: Honda
+  - title: 'Visiting Scholar, Honda Research Institute Europe, Germany.'
+    company: 'Honda'
     company_url: ''
-    location: Germany
+    location: 'Germany'
     date_start: '2013'
     date_end: '2016'
     description: |2-
@@ -35,13 +35,13 @@ experience:
         * 2
         * 3
         
-  - title: Research Fellow, University of Birmingham, UK.
-    company: University of Birmingham
+  - title: 'Research Fellow, University of Birmingham, UK.'
+    company: 'University of Birmingham'
     company_url: ''
-    location: UK
+    location: 'UK'
     date_start: '2016'
     date_end: '2018'
-    description: a description here.
+    description: 'a description here.'
 
 design:
   columns: '2'
