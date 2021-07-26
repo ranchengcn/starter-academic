@@ -26,8 +26,8 @@ experience:
     company: 'Honda'
     company_url: ''
     location: 'Germany'
-    date_start: '2013'
-    date_end: '2016'
+    date_start: '2013-01-01'
+    date_end: '2016-01-01'
     description: |2-
         Responsibilities include:
         
@@ -39,8 +39,8 @@ experience:
     company: 'University of Birmingham'
     company_url: ''
     location: 'UK'
-    date_start: '2016'
-    date_end: '2018'
+    date_start: '2016-01-01'
+    date_end: '2018-01-01'
     description: 'a description here.'
 
 design:
