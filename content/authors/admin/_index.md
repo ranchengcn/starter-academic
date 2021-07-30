@@ -17,7 +17,7 @@ social:
     link: https://publons.com/researcher/1307307/ran-cheng/
 organizations:
   - name: Department of Computer Science and Engineering, SUSTech
-    url: https://www.sustech.edu.cn/
+    url: https://www.sustech.edu.cn/en/
 education:
   courses:
     - course: PhD, University of Surrey, UK.
