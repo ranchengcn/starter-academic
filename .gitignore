@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+bin/
+lib/
+lib64/
+pyvenv.cfg
