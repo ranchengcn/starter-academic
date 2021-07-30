@@ -7,7 +7,7 @@ authors:
   - Ye Tian
   - Langchun Si
   - Xingyi Zhang
-  - Ran Cheng
+  - admin
   - Cheng He
   - Kay Chen Tan
   - Yaochu Jin.
