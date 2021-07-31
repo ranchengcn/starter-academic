@@ -35,6 +35,20 @@ experience:
     location: 'UK'
     date_start: '2016-01-01'
     date_end: '2018-01-01'
+  
+  - title: 'Assistant Professor, Southern University of Science and Technology, China.'
+    company: 'Southern University of Science and Technology'
+    company_url: ''
+    location: 'China'
+    date_start: '2018-01-01'
+    date_end: '2020-01-01'
+  
+  - title: 'Associate Professor (Tenured), Southern University of Science and Technology, China'
+    company: 'Southern University of Science and Technology'
+    company_url: ''
+    location: 'China'
+    date_start: '2020-01-01'
+    date_end: ''
 
 design:
   columns: '2'
