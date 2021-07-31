@@ -18,6 +18,10 @@ social:
 organizations:
   - name: Department of Computer Science and Engineering, SUSTech
     url: https://www.sustech.edu.cn/en/
+CommitteeServices:
+  - service 1
+  - service 1
+  - service 1
 education:
   courses:
     - course: PhD, University of Surrey, UK.
