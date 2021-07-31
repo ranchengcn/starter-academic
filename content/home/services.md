@@ -3,15 +3,13 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My New Section
+title: Academic Services
 subtitle:
 weight: 40  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-
-# Academic Services
 
 ## Committee Services
  - 2020 - present: Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems.
