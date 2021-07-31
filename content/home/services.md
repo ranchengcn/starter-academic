@@ -14,15 +14,15 @@ design:
 # Academic Services
 
 ## Committee Services
- - 2020 \u2013 present: Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems.
- - 2020 \u2013 present: Committee Member, IEEE CIS Evolutionary Computation Technical Committee.
+ - 2020 - present: Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems.
+ - 2020 - present: Committee Member, IEEE CIS Evolutionary Computation Technical Committee.
 
 ## Editorial Services
 
- - 2020 \u2013 present: Associate Editor, IEEE Transactions on Artificial Intelligence.
- - 2018 \u2013 present: Associate Editor, IEEE Access.
- - 2018 \u2013 present: Editorial Board Member, Applied Soft Computing.
- - 2017 \u2013 present: Editorial Board Member, Complex & Intelligent Systems.
+ - 2020 - present: Associate Editor, IEEE Transactions on Artificial Intelligence.
+ - 2018 - present: Associate Editor, IEEE Access.
+ - 2018 - present: Editorial Board Member, Applied Soft Computing.
+ - 2017 - present: Editorial Board Member, Complex & Intelligent Systems.
 
 ## Conference Organizers
 
