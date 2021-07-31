@@ -1,17 +1,14 @@
 ---
-title: Academic Services
-summary: Academic Services
-date: "2018-06-28T00:00:00Z"
+widget: blank
+headless: true
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+# ... Put Your Section Options Here (title etc.) ...
+title: My New Section
+subtitle:
+weight: 10  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
 
 # Academic Services
