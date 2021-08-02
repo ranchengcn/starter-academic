@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 40
   - name: Accomplishments
-    url: '#accomplishments'
+    url: '#committee_services'
     weight: 50
   - name: Contact
     url: '#contact'
