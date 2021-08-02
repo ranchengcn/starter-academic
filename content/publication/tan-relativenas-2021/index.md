@@ -13,21 +13,21 @@ authors:
 - Fan Yang
 - Ping Luo
 tags:
+- '"Neural networks"'
+- '"Optimization"'
+- '"Search problems"'
+- '"Sociology"'
+- '"Statistics"'
 - '"AutoML"'
 - '"Computer architecture"'
 - '"convolutional neural network (CNN)"'
 - '"Estimation"'
 - '"neural architecture search (NAS)"'
-- '"Neural networks"'
-- '"Optimization"'
 - '"population-based search"'
-- '"Search problems"'
 - '"slow-fast learning."'
-- '"Sociology"'
-- '"Statistics"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-02T17:54:57+08:00
+lastmod: 2021-08-02T18:08:56+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:57.132257Z'
+publishDate: '2021-08-02T10:08:56.001887Z'
 publication_types:
 - '2'
 abstract: 'Despite the remarkable successes of convolutional neural networks (CNNs)

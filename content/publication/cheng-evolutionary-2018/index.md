@@ -11,24 +11,24 @@ authors:
 - Ke Li
 - Xin Yao
 tags:
-- '"Approximation algorithms"'
-- '"Decision making"'
-- '"Decision-making"'
 - '"Evolutionary computation"'
-- '"fitness landscape approximation"'
-- '"Linear programming"'
-- '"multimodal optimization (MMO)"'
-- '"multiobjective optimization"'
-- '"multiobjectivization"'
-- '"niching"'
 - '"Optimization"'
-- '"peak detection"'
-- '"preference"'
 - '"Sociology"'
 - '"Statistics"'
+- '"Decision making"'
+- '"Approximation algorithms"'
+- '"Linear programming"'
+- '"multiobjective optimization"'
+- '"Decision-making"'
+- '"fitness landscape approximation"'
+- '"multimodal optimization (MMO)"'
+- '"multiobjectivization"'
+- '"niching"'
+- '"peak detection"'
+- '"preference"'
 categories: []
 date: '2018-10-01'
-lastmod: 2021-08-02T17:55:03+08:00
+lastmod: 2021-08-02T18:09:01+08:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:02.897185Z'
+publishDate: '2021-08-02T10:09:00.864029Z'
 publication_types:
 - '2'
 abstract: Recently, by taking advantage of evolutionary multiobjective optimization

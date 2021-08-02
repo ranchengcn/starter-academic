@@ -13,6 +13,7 @@ authors:
 - Yaochu Jin
 - Xin Yao
 tags:
+- '"Optimization"'
 - '"Benchmark testing"'
 - '"Computer science"'
 - '"Continuous dynamic real-world problems"'
@@ -21,14 +22,13 @@ tags:
 - '"future directions"'
 - '"Generators"'
 - '"Heuristic algorithms"'
-- '"Optimization"'
 - '"Optimization methods"'
 - '"Performance analysis"'
 - '"performance indicators"'
 - '"unconstrained continuous dynamic optimization"'
 categories: []
 date: '2021-08-01'
-lastmod: 2021-08-02T17:54:59+08:00
+lastmod: 2021-08-02T18:08:57+08:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:59.217362Z'
+publishDate: '2021-08-02T10:08:57.722823Z'
 publication_types:
 - '2'
 abstract: This article presents the second Part of a two-Part survey that reviews

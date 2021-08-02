@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A Survey of Evolutionary Continuous Dynamic Optimization Over Two Decades—Part
-  B
+  A
 subtitle: ''
 summary: ''
 authors:
@@ -14,21 +14,21 @@ authors:
 - Xin Yao
 tags:
 - '"Benchmark testing"'
-- '"Computer science"'
-- '"Continuous dynamic real-world problems"'
-- '"dynamic benchmark problems"'
-- '"evolutionary algorithms"'
-- '"future directions"'
-- '"Generators"'
+- '"Change detection"'
+- '"Classification algorithms"'
+- '"evolutionary algorithms (EA)"'
 - '"Heuristic algorithms"'
-- '"Optimization"'
-- '"Optimization methods"'
-- '"Performance analysis"'
-- '"performance indicators"'
+- '"multipopulation"'
+- '"Resource management"'
+- '"response component"'
+- '"Search problems"'
+- '"Sociology"'
+- '"taxonomy"'
+- '"Taxonomy"'
 - '"unconstrained continuous dynamic optimization"'
 categories: []
 date: '2021-08-01'
-lastmod: 2021-08-02T17:54:59+08:00
+lastmod: 2021-08-02T18:09:05+08:00
 featured: false
 draft: false
 
@@ -46,24 +46,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:59.589769Z'
+publishDate: '2021-08-02T10:09:05.190721Z'
 publication_types:
 - '2'
-abstract: This article presents the second Part of a two-Part survey that reviews
-  evolutionary dynamic optimization (EDO) for single-objective unconstrained continuous
-  problems over the last two decades. While in the first part, we reviewed the components
-  of dynamic optimization algorithms (DOAs); in this part, we present an in-depth
-  review of the most commonly used benchmark problems, performance analysis methods,
-  static optimization methods used in the framework of DOAs, and real-world applications.
-  Compared to the previous works, this article provides a new taxonomy for the benchmark
-  problems used in the field based on their baseline functions and dynamics. In addition,
-  this survey classifies the commonly used performance indicators into fitness/error-based
-  and efficiency-based ones. Different types of plots used in the literature for analyzing
-  the performance and behavior of algorithms are also reviewed. Furthermore, the static
-  optimization algorithms that are modified and utilized in the framework of DOAs
-  as the optimization components are covered. We then comprehensively review some
-  real-world dynamic problems that are optimized by EDO methods. Finally, some challenges
-  and opportunities are pointed out for future directions.
+abstract: Many real-world optimization problems are dynamic. The field of dynamic
+  optimization deals with such problems where the search space changes over time.
+  In this two-part article, we present a comprehensive survey of the research in evolutionary
+  dynamic optimization for single-objective unconstrained continuous problems over
+  the last two decades. In Part A of this survey, we propose a new taxonomy for the
+  components of dynamic optimization algorithms (DOAs), namely, convergence detection,
+  change detection, explicit archiving, diversity control, and population division
+  and management. In comparison to the existing taxonomies, the proposed taxonomy
+  covers some additional important components, such as convergence detection and computational
+  resource allocation. Moreover, we significantly expand and improve the classifications
+  of diversity control and multipopulation methods, which are underrepresented in
+  the existing taxonomies. We then provide detailed technical descriptions and analysis
+  of different components according to the suggested taxonomy. Part B of this survey
+  provides an in-depth analysis of the most commonly used benchmark problems, performance
+  analysis methods, static optimization algorithms used as the optimization components
+  in the DOAs, and dynamic real-world applications. Finally, several opportunities
+  for future work are pointed out.
 publication: '*IEEE Transactions on Evolutionary Computation*'
-doi: 10.1109/TEVC.2021.3060012
+doi: 10.1109/TEVC.2021.3060014
 ---

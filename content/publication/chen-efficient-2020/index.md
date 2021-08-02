@@ -12,11 +12,11 @@ authors:
 - Ran Cheng
 tags:
 - '"Evolutionary algorithm"'
-- '"Network morphism"'
 - '"Neural architecture search"'
+- '"Network morphism"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-02T17:54:55+08:00
+lastmod: 2021-08-02T18:08:54+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:55.401609Z'
+publishDate: '2021-08-02T10:08:54.126267Z'
 publication_types:
 - '1'
 abstract: Deep learning has achieved enormous breakthroughs in the field of image

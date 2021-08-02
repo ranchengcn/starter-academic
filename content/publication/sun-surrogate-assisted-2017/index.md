@@ -12,21 +12,21 @@ authors:
 - Jinliang Ding
 - Jianchao Zeng
 tags:
-- '"Algorithm design and analysis"'
-- '"Computational modeling"'
-- '"Computationally expensive problems"'
 - '"Convergence"'
-- '"Estimation"'
-- '"fitness estimation strategy (FES)"'
 - '"Optimization"'
+- '"Search problems"'
 - '"Particle swarm optimization"'
+- '"Computational modeling"'
+- '"Estimation"'
+- '"Algorithm design and analysis"'
+- '"Computationally expensive problems"'
+- '"fitness estimation strategy (FES)"'
 - '"particle swarm optimization (PSO)"'
 - '"radial-basis-function networks"'
-- '"Search problems"'
 - '"surrogate models"'
 categories: []
 date: '2017-08-01'
-lastmod: 2021-08-02T17:55:05+08:00
+lastmod: 2021-08-02T18:09:03+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:05.002824Z'
+publishDate: '2021-08-02T10:09:02.936712Z'
 publication_types:
 - '2'
 abstract: Surrogate models have shown to be effective in assisting metaheuristic algorithms

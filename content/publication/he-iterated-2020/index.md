@@ -11,18 +11,18 @@ authors:
 - Ye Tian
 - Xingyi Zhang
 tags:
-- '"Computer science"'
 - '"Convergence"'
-- '"Evolutionary algorithm"'
+- '"Sociology"'
+- '"Pareto optimization"'
 - '"Indexes"'
+- '"Computer science"'
+- '"Evolutionary algorithm"'
 - '"large-scale optimization"'
 - '"multiobjective optimization"'
-- '"Pareto optimization"'
 - '"problem reformulation"'
-- '"Sociology"'
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-02T17:54:55+08:00
+lastmod: 2021-08-02T18:08:54+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:55.773691Z'
+publishDate: '2021-08-02T10:08:54.492327Z'
 publication_types:
 - '1'
 abstract: Due to the curse of dimensionality, two main issues remain challenging for

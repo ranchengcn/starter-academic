@@ -12,14 +12,14 @@ authors:
 - Ran Cheng
 - Chunhou Zheng
 tags:
-- '"Community detection"'
-- '"Complex network"'
 - '"Evolutionary algorithm"'
 - '"Multi-objective optimization"'
+- '"Community detection"'
+- '"Complex network"'
 - '"Parallel algorithm"'
 categories: []
 date: '2021-10-01'
-lastmod: 2021-08-02T17:54:59+08:00
+lastmod: 2021-08-02T18:08:57+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:58.994229Z'
+publishDate: '2021-08-02T10:08:57.304348Z'
 publication_types:
 - '2'
 abstract: Community detection in large-scale complex networks has recently received

@@ -12,16 +12,16 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
+- '"Evolutionary computation"'
+- '"Optimization"'
 - '"Benchmark testing"'
 - '"Computer science"'
-- '"Evolutionary computation"'
-- '"Hypercubes"'
 - '"Measurement"'
-- '"Optimization"'
+- '"Hypercubes"'
 - '"Sampling methods"'
 categories: []
 date: '2018-07-01'
-lastmod: 2021-08-02T17:54:54+08:00
+lastmod: 2021-08-02T18:08:53+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:54.585365Z'
+publishDate: '2021-08-02T10:08:53.216099Z'
 publication_types:
 - '1'
 abstract: The effectiveness of evolutionary algorithms have been verified on multi-objective

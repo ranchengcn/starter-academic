@@ -11,21 +11,21 @@ authors:
 - Ran Cheng
 - Kuangrong Hao
 tags:
-- '"Attention mechanism"'
-- '"Computer architecture"'
-- '"convolutional neural networks (CNNs)"'
-- '"evolutionary optimization"'
-- '"Graphics processing units"'
-- '"neural architecture search (NAS)"'
 - '"Neural networks"'
-- '"node inheritance"'
 - '"Optimization"'
 - '"Sociology"'
 - '"Statistics"'
+- '"Computer architecture"'
+- '"neural architecture search (NAS)"'
 - '"Training"'
+- '"Attention mechanism"'
+- '"convolutional neural networks (CNNs)"'
+- '"evolutionary optimization"'
+- '"Graphics processing units"'
+- '"node inheritance"'
 categories: []
 date: '2021-04-01'
-lastmod: 2021-08-02T17:55:00+08:00
+lastmod: 2021-08-02T18:08:58+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:59.988146Z'
+publishDate: '2021-08-02T10:08:58.148466Z'
 publication_types:
 - '2'
 abstract: The performance of deep neural networks is heavily dependent on its architecture

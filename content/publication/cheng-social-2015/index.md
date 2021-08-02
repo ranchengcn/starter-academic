@@ -8,14 +8,14 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Computational efficiency"'
-- '"Large-scale optimization"'
 - '"Particle swarm optimization"'
+- '"Large-scale optimization"'
 - '"Scalability"'
+- '"Computational efficiency"'
 - '"Social learning"'
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-02T17:55:06+08:00
+lastmod: 2021-08-02T18:09:04+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:06.536976Z'
+publishDate: '2021-08-02T10:09:04.324262Z'
 publication_types:
 - '2'
 abstract: Social learning plays an important role in behavior learning among social

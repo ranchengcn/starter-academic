@@ -10,20 +10,20 @@ authors:
 - Cheng He
 - Jürgen Branke
 tags:
+- '"Sociology"'
+- '"Statistics"'
 - '"Computational resource allocation"'
 - '"dynamic optimization problems (DOPs)"'
 - '"Euclidean distance"'
 - '"multipopulation"'
 - '"Resource management"'
 - '"Round robin"'
-- '"Sociology"'
-- '"Statistics"'
 - '"Tracking"'
 - '"tracking moving optima (TMO)"'
 - '"Upper bound"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-02T17:55:00+08:00
+lastmod: 2021-08-02T18:08:58+08:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:00.170146Z'
+publishDate: '2021-08-02T10:08:58.381556Z'
 publication_types:
 - '2'
 abstract: 'Multipopulation methods are highly effective in solving dynamic optimization

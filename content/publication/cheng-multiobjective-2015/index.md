@@ -11,21 +11,21 @@ authors:
 - Kaname Narukawa
 - Bernhard Sendhoff
 tags:
+- '"Sociology"'
+- '"Vectors"'
+- '"Multiobjective optimization"'
+- '"Pareto optimization"'
+- '"Gaussian processes"'
 - '"estimation of distribution algorithms"'
 - '"Estimation of distribution algorithms (EDAs)"'
-- '"Gaussian processes"'
 - '"Gaussian processes (GPs)"'
 - '"inverse modeling"'
 - '"Inverse problems"'
-- '"Multiobjective optimization"'
 - '"multiobjective optimization (MOO)"'
-- '"Pareto optimization"'
 - '"random grouping"'
-- '"Sociology"'
-- '"Vectors"'
 categories: []
 date: '2015-12-01'
-lastmod: 2021-08-02T17:55:06+08:00
+lastmod: 2021-08-02T18:09:04+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:06.108531Z'
+publishDate: '2021-08-02T10:09:03.944964Z'
 publication_types:
 - '2'
 abstract: To approximate the Pareto front, most existing multiobjective evolutionary

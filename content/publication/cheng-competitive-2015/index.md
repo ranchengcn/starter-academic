@@ -8,22 +8,22 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
+- '"learning"'
+- '"Convergence"'
+- '"Optimization"'
+- '"Vectors"'
+- '"Particle swarm optimization"'
+- '"Heuristic algorithms"'
 - '"Algorithm design and analysis"'
 - '"Competition"'
 - '"competitive swarm optimizer"'
-- '"Convergence"'
 - '"convergence analysis"'
 - '"Cybernetics"'
-- '"Heuristic algorithms"'
 - '"large scale optimization"'
-- '"learning"'
-- '"Optimization"'
 - '"particle swarm optimization"'
-- '"Particle swarm optimization"'
-- '"Vectors"'
 categories: []
 date: '2015-02-01'
-lastmod: 2021-08-02T17:55:06+08:00
+lastmod: 2021-08-02T18:09:04+08:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:06.321925Z'
+publishDate: '2021-08-02T10:09:04.151654Z'
 publication_types:
 - '2'
 abstract: In this paper, a novel competitive swarm optimizer (CSO) for large scale

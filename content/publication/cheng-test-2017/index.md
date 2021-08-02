@@ -10,19 +10,19 @@ authors:
 - Markus Olhofer
 - Bernhard sendhoff
 tags:
-- '"Benchmark testing"'
-- '"Evolutionary algorithms (EAs)"'
 - '"Evolutionary computation"'
-- '"large-scale optimization"'
-- '"Linear programming"'
-- '"many-objective optimization"'
-- '"multiobjective optimization"'
+- '"Benchmark testing"'
 - '"Pareto optimization"'
+- '"many-objective optimization"'
+- '"Linear programming"'
+- '"large-scale optimization"'
+- '"multiobjective optimization"'
+- '"Evolutionary algorithms (EAs)"'
 - '"test problems"'
 - '"Testing"'
 categories: []
 date: '2017-12-01'
-lastmod: 2021-08-02T17:55:05+08:00
+lastmod: 2021-08-02T18:09:03+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:05.595161Z'
+publishDate: '2021-08-02T10:09:03.548534Z'
 publication_types:
 - '2'
 abstract: The interests in multiobjective and many-objective optimization have been

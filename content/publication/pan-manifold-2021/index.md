@@ -12,6 +12,9 @@ authors:
 - Cheng He
 - Kay Chen Tan
 tags:
+- '"Optimization"'
+- '"Sociology"'
+- '"multiobjective optimization"'
 - '"Assortative crossover"'
 - '"complicated Pareto set"'
 - '"diversity maintenance"'
@@ -19,14 +22,11 @@ tags:
 - '"manifold learning"'
 - '"Manifolds"'
 - '"mating selection"'
-- '"multiobjective optimization"'
-- '"Optimization"'
 - '"Principal component analysis"'
 - '"Self-organizing feature maps"'
-- '"Sociology"'
 categories: []
 date: '2021-06-01'
-lastmod: 2021-08-02T17:54:56+08:00
+lastmod: 2021-08-02T18:08:55+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:56.326145Z'
+publishDate: '2021-08-02T10:08:55.131748Z'
 publication_types:
 - '2'
 abstract: Under certain smoothness assumptions, the Pareto set of a continuous multiobjective

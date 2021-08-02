@@ -12,12 +12,12 @@ authors:
 - Miqing Li
 - Yaochu Jin
 tags:
-- '"Benchmark testing"'
 - '"Evolutionary computation"'
+- '"Benchmark testing"'
 - '"Hypercubes"'
 categories: []
 date: '2019-08-01'
-lastmod: 2021-08-02T17:55:02+08:00
+lastmod: 2021-08-02T18:09:00+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:02.064828Z'
+publishDate: '2021-08-02T10:09:00.376602Z'
 publication_types:
 - '2'
 abstract: Diversity preservation plays an important role in the design of multi-objective

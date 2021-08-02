@@ -13,21 +13,21 @@ authors:
 - Qin Chen
 - Xin Yao
 tags:
-- '"Benchmark test suite"'
+- '"Optimization"'
 - '"Benchmark testing"'
+- '"Estimation"'
+- '"Benchmark test suite"'
 - '"Calibration"'
 - '"Error analysis"'
-- '"Estimation"'
 - '"inequality constraint"'
 - '"large-scale multiobjective optimization"'
-- '"Optimization"'
 - '"Substations"'
 - '"time-varying ratio error estimation (TREE)"'
 - '"Voltage measurement"'
 - '"voltage transformer (VT)"'
 categories: []
 date: '2020-10-01'
-lastmod: 2021-08-02T17:55:01+08:00
+lastmod: 2021-08-02T18:08:59+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:00.956706Z'
+publishDate: '2021-08-02T10:08:59.283117Z'
 publication_types:
 - '2'
 abstract: Ratio error (RE) estimation of the voltage transformers (VTs) plays an important

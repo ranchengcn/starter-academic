@@ -10,16 +10,16 @@ authors:
 - Miqing Li
 - Xin Yao
 tags:
-- '"Benchmark testing"'
-- '"Data visualization"'
 - '"Optimization"'
 - '"Sociology"'
 - '"Statistics"'
+- '"Benchmark testing"'
+- '"Data visualization"'
 - '"Two dimensional displays"'
 - '"Visualization"'
 categories: []
 date: '2017-06-01'
-lastmod: 2021-08-02T17:54:54+08:00
+lastmod: 2021-08-02T18:08:52+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:53.922516Z'
+publishDate: '2021-08-02T10:08:52.610517Z'
 publication_types:
 - '1'
 abstract: Multimodal optimization has attracted increasing interest recently. Despite

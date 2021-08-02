@@ -10,13 +10,13 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
+- '"Multiobjective optimization"'
 - '"Dimension dropout"'
 - '"High-dimensional"'
-- '"Multiobjective optimization"'
 - '"Surrogate-assisted optimization"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-02T17:54:56+08:00
+lastmod: 2021-08-02T18:08:54+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:55.951744Z'
+publishDate: '2021-08-02T10:08:54.690809Z'
 publication_types:
 - '1'
 abstract: In the past decades, a number of surrogate-assisted evolutionary algorithms

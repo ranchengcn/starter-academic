@@ -12,20 +12,20 @@ authors:
 - Markus Olhofer
 - Yaochu Jin
 tags:
-- '"Algorithm design and analysis"'
 - '"Convergence"'
-- '"Evolutionary algorithm"'
 - '"Evolutionary computation"'
+- '"Optimization"'
+- '"Sorting"'
+- '"many-objective optimization"'
+- '"Evolutionary algorithm"'
+- '"Algorithm design and analysis"'
 - '"hybrid electric vehicle"'
 - '"Hybrid electric vehicles"'
-- '"many-objective optimization"'
-- '"Optimization"'
 - '"preference articulation"'
 - '"reference vector"'
-- '"Sorting"'
 categories: []
 date: '2017-04-01'
-lastmod: 2021-08-02T17:55:04+08:00
+lastmod: 2021-08-02T18:09:02+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:55:04.795328Z'
+publishDate: '2021-08-02T10:09:02.767577Z'
 publication_types:
 - '2'
 abstract: Many real-world optimization problems have more than three objectives, which

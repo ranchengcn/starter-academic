@@ -20,7 +20,7 @@ tags:
 - '"surrogate-assisted"'
 categories: []
 date: '2017-07-01'
-lastmod: 2021-08-02T17:54:53+08:00
+lastmod: 2021-08-02T18:08:52+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:53.738818Z'
+publishDate: '2021-08-02T10:08:52.401800Z'
 publication_types:
 - '2'
 abstract: Most optimization algorithms suppose that there exist explicit evaluation

@@ -11,9 +11,9 @@ authors:
 - Wangli He
 - Ran Cheng
 tags:
+- '"Computational modeling"'
 - '"Collaborative work"'
 - '"Communication efficiency"'
-- '"Computational modeling"'
 - '"Data models"'
 - '"deep learning"'
 - '"Distributed databases"'
@@ -24,7 +24,7 @@ tags:
 - '"Training"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-02T17:54:59+08:00
+lastmod: 2021-08-02T18:08:58+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:59.796515Z'
+publishDate: '2021-08-02T10:08:57.905685Z'
 publication_types:
 - '2'
 abstract: Learning over massive data stored in different locations is essential in

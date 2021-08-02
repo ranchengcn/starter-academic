@@ -14,18 +14,18 @@ authors:
 - Hisao Ishibuchi
 tags:
 - '"Evolutionary computation"'
+- '"Optimization"'
+- '"Sociology"'
+- '"Statistics"'
 - '"Expensive many-objective optimization"'
 - '"Gaussian processes"'
 - '"Hybrid optimization"'
 - '"Iron"'
 - '"Linear programming"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
 - '"Surrogate-assisted evolutionary optimization"'
 categories: []
 date: '2019-06-01'
-lastmod: 2021-08-02T17:54:55+08:00
+lastmod: 2021-08-02T18:08:53+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T09:54:55.010910Z'
+publishDate: '2021-08-02T10:08:53.701016Z'
 publication_types:
 - '1'
 abstract: Many real-world optimization problems are challenging because the evaluation
