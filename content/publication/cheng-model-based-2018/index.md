@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2021-08-01T21:34:51+08:00
+lastmod: 2021-08-02T17:55:04+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:53.943752Z'
+publishDate: '2021-08-02T09:55:04.160544Z'
 publication_types:
 - '2'
 abstract: The evolutionary algorithms (EAs) are a family of nature-inspired algorithms

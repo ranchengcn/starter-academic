@@ -26,7 +26,7 @@ tags:
 - '"Uncertainty"'
 categories: []
 date: '2019-06-01'
-lastmod: 2021-08-01T21:34:40+08:00
+lastmod: 2021-08-02T17:54:54+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:43.023413Z'
+publishDate: '2021-08-02T09:54:54.346225Z'
 publication_types:
 - '1'
 abstract: Surrogate-assisted evolutionary algorithms have played an important role

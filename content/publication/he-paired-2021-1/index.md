@@ -25,7 +25,7 @@ tags:
 - '"Statistics"'
 categories: []
 date: '2021-06-01'
-lastmod: 2021-08-01T21:34:44+08:00
+lastmod: 2021-08-02T17:54:58+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:47.017560Z'
+publishDate: '2021-08-02T09:54:57.982162Z'
 publication_types:
 - '2'
 abstract: Constrained multiobjective optimization problems (CMOPs) widely exist in

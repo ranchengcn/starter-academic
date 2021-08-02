@@ -25,7 +25,7 @@ tags:
 - '"Statistics"'
 categories: []
 date: '2018-08-01'
-lastmod: 2021-08-01T21:34:52+08:00
+lastmod: 2021-08-02T17:55:05+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:55.420126Z'
+publishDate: '2021-08-02T09:55:05.401875Z'
 publication_types:
 - '2'
 abstract: During the past two decades, a variety of multiobjective evolutionary algorithms

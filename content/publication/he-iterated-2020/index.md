@@ -22,7 +22,7 @@ tags:
 - '"Sociology"'
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-01T21:34:41+08:00
+lastmod: 2021-08-02T17:54:55+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:44.632579Z'
+publishDate: '2021-08-02T09:54:55.773691Z'
 publication_types:
 - '1'
 abstract: Due to the curse of dimensionality, two main issues remain challenging for

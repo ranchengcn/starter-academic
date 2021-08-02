@@ -18,7 +18,7 @@ tags:
 - '"Vectors"'
 categories: []
 date: '2013-06-01'
-lastmod: 2021-08-01T21:34:37+08:00
+lastmod: 2021-08-02T17:54:52+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:40.548029Z'
+publishDate: '2021-08-02T09:54:27.151630Z'
 publication_types:
 - '1'
 abstract: Most evolutionary algorithms, including particle swarm optimization (PSO)

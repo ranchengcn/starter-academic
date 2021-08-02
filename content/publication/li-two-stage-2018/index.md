@@ -17,7 +17,7 @@ tags:
 - '"Two-stage selection strategy"'
 categories: []
 date: '2018-06-01'
-lastmod: 2021-08-01T21:34:50+08:00
+lastmod: 2021-08-02T17:55:03+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:53.517500Z'
+publishDate: '2021-08-02T09:55:03.752250Z'
 publication_types:
 - '2'
 abstract: R2 indicator based multi-objective evolutionary algorithms (R2-MOEAs) have

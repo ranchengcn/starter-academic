@@ -28,7 +28,7 @@ tags:
 - '"Statistics"'
 categories: []
 date: '2018-10-01'
-lastmod: 2021-08-01T21:34:49+08:00
+lastmod: 2021-08-02T17:55:03+08:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:52.667706Z'
+publishDate: '2021-08-02T09:55:02.897185Z'
 publication_types:
 - '2'
 abstract: Recently, by taking advantage of evolutionary multiobjective optimization

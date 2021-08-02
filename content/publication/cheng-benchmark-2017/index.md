@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2017-02-01'
-lastmod: 2021-08-01T21:34:52+08:00
+lastmod: 2021-08-02T17:55:05+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:55.125637Z'
+publishDate: '2021-08-02T09:55:05.214530Z'
 publication_types:
 - '2'
 abstract: In the real world, it is not uncommon to face an optimization problem with

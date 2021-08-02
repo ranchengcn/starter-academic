@@ -18,7 +18,7 @@ tags:
 - '"Sociology"'
 categories: []
 date: '2016-07-01'
-lastmod: 2021-08-01T21:34:39+08:00
+lastmod: 2021-08-02T17:54:53+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:42.172879Z'
+publishDate: '2021-08-02T09:54:53.537229Z'
 publication_types:
 - '1'
 abstract: As a pivotal component in multi-objective evolutionary algorithms (MOEAs),

@@ -23,7 +23,7 @@ tags:
 - '"Training data"'
 categories: []
 date: '2017-11-01'
-lastmod: 2021-08-01T21:34:40+08:00
+lastmod: 2021-08-02T17:54:54+08:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:43.473966Z'
+publishDate: '2021-08-02T09:54:54.804335Z'
 publication_types:
 - '1'
 abstract: 'Graph-based dimensionality reduction has attracted a lot of attention in

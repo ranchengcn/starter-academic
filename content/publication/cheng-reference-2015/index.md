@@ -18,7 +18,7 @@ tags:
 - '"Sociology"'
 categories: []
 date: '2015-05-01'
-lastmod: 2021-08-01T21:34:38+08:00
+lastmod: 2021-08-02T17:54:52+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:41.204940Z'
+publishDate: '2021-08-02T09:54:52.680348Z'
 publication_types:
 - '1'
 abstract: Multiobjective evolutionary algorithms (MOEAs) usually achieve a set of

@@ -22,7 +22,7 @@ tags:
 - '"Pareto optimization"'
 categories: []
 date: '2019-04-01'
-lastmod: 2021-08-01T21:34:51+08:00
+lastmod: 2021-08-02T17:55:04+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:54.142516Z'
+publishDate: '2021-08-02T09:55:04.360416Z'
 publication_types:
 - '2'
 abstract: Both convergence and diversity are crucial to evolutionary many-objective

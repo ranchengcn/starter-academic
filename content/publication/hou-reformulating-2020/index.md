@@ -16,7 +16,7 @@ tags:
 - '"Preference articulation"'
 categories: []
 date: '2020-12-01'
-lastmod: 2021-08-01T21:34:47+08:00
+lastmod: 2021-08-02T17:55:01+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:50.879260Z'
+publishDate: '2021-08-02T09:55:01.195089Z'
 publication_types:
 - '2'
 abstract: Despite that the reference point based preference articulation plays a vital

@@ -22,7 +22,7 @@ tags:
 - '"Sociology"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-01T21:34:48+08:00
+lastmod: 2021-08-02T17:55:01+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:51.300534Z'
+publishDate: '2021-08-02T09:55:01.606513Z'
 publication_types:
 - '2'
 abstract: Diversity preservation is a crucial technique in multiobjective evolutionary

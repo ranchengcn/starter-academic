@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-01T21:34:47+08:00
+lastmod: 2021-08-02T17:55:00+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-01T13:36:50.455649Z'
+publishDate: '2021-08-02T09:55:00.790794Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis
