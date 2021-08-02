@@ -25,14 +25,14 @@ date_format: '2006-01-02'
 item:
 - date_end: ""
   date_start: "2020-01-01"
-  description: ""
+  description: "Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
   organization: 'IEEE'
-  title: 'Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems.'
+  title: 'Chair'
 - date_end: ""
   date_start: "2020-01-01"
-  description: ""
+  description: "Committee Member, IEEE CIS Evolutionary Computation Technical Committee."
   organization: 'IEEE'
-  title: 'Committee Member, IEEE CIS Evolutionary Computation Technical Committee.'
+  title: 'Committee Member'
 
 design:
   columns: '2' 
