@@ -22,7 +22,7 @@ tags:
 - '"Supercritical airfoil"'
 categories: []
 date: '2021-03-01'
-lastmod: 2021-08-02T18:08:57+08:00
+lastmod: 2021-08-03T13:11:34+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:57.106317Z'
+publishDate: '2021-08-03T05:11:33.997680Z'
 publication_types:
 - '2'
 abstract: Inverse design has long been an efficient and powerful design tool in the

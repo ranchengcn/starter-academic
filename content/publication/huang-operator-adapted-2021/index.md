@@ -18,7 +18,7 @@ tags:
 - '"Voltage transformer ratio error estimation"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-02T18:08:55+08:00
+lastmod: 2021-08-03T13:11:31+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:54.908008Z'
+publishDate: '2021-08-03T05:11:31.765284Z'
 publication_types:
 - '1'
 abstract: Large-scale multiobjective optimization problems (LSMOPs) exist widely in

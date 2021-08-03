@@ -17,7 +17,7 @@ tags:
 - '"Particle swarm optimization"'
 categories: []
 date: '2013-09-01'
-lastmod: 2021-08-02T18:08:51+08:00
+lastmod: 2021-08-03T13:11:27+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:50.940207Z'
+publishDate: '2021-08-03T05:11:27.553921Z'
 publication_types:
 - '1'
 abstract: Competitive particle swarm optimizer (ComPSO) is a novel swarm intelligence

@@ -18,7 +18,7 @@ tags:
 - '"Variable linkage"'
 categories: []
 date: '2021-02-01'
-lastmod: 2021-08-02T18:08:59+08:00
+lastmod: 2021-08-03T13:11:35+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:58.828848Z'
+publishDate: '2021-08-03T05:11:35.700688Z'
 publication_types:
 - '2'
 abstract: Crossover is a crucial operation for generating promising offspring solutions

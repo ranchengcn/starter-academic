@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-02T18:08:53+08:00
+lastmod: 2021-08-03T13:11:29+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:52.819593Z'
+publishDate: '2021-08-03T05:11:29.516459Z'
 publication_types:
 - '1'
 abstract: Visualizing a high-dimensional solution set over the evolution process is

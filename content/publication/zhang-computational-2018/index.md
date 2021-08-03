@@ -18,7 +18,7 @@ tags:
 - '"superhydrophobic behavior"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-02T18:09:01+08:00
+lastmod: 2021-08-03T13:11:38+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:01.508218Z'
+publishDate: '2021-08-03T05:11:38.396460Z'
 publication_types:
 - '2'
 abstract: In recent years, state-of-the-art computational modeling of physical and

@@ -16,7 +16,7 @@ tags:
 - '"Neural architecture search"'
 categories: []
 date: '2021-07-01'
-lastmod: 2021-08-02T18:08:54+08:00
+lastmod: 2021-08-03T13:11:30+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:53.880530Z'
+publishDate: '2021-08-03T05:11:30.623518Z'
 publication_types:
 - '2'
 abstract: Deep neural networks are widely used in the domain of image classification,

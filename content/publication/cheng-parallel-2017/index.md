@@ -19,7 +19,7 @@ tags:
 - '"Visualization"'
 categories: []
 date: '2017-06-01'
-lastmod: 2021-08-02T18:08:52+08:00
+lastmod: 2021-08-03T13:11:29+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:52.610517Z'
+publishDate: '2021-08-03T05:11:29.266315Z'
 publication_types:
 - '1'
 abstract: Multimodal optimization has attracted increasing interest recently. Despite

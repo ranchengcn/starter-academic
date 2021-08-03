@@ -27,8 +27,8 @@ tags:
 - '"slow-fast learning."'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-02T18:08:56+08:00
-featured: true
+lastmod: 2021-08-03T13:11:33+08:00
+featured: false
 draft: false
 
 # Featured image
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:56.001887Z'
+publishDate: '2021-08-03T05:11:32.808567Z'
 publication_types:
 - '2'
 abstract: 'Despite the remarkable successes of convolutional neural networks (CNNs)

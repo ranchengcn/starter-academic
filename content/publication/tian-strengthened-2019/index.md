@@ -22,7 +22,7 @@ tags:
 - '"Pareto dominance"'
 categories: []
 date: '2019-04-01'
-lastmod: 2021-08-02T18:09:02+08:00
+lastmod: 2021-08-03T13:11:39+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:02.342713Z'
+publishDate: '2021-08-03T05:11:39.334114Z'
 publication_types:
 - '2'
 abstract: Both convergence and diversity are crucial to evolutionary many-objective

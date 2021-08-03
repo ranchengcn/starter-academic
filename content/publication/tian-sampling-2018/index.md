@@ -21,7 +21,7 @@ tags:
 - '"Sampling methods"'
 categories: []
 date: '2018-07-01'
-lastmod: 2021-08-02T18:08:53+08:00
+lastmod: 2021-08-03T13:11:30+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:53.216099Z'
+publishDate: '2021-08-03T05:11:29.953670Z'
 publication_types:
 - '1'
 abstract: The effectiveness of evolutionary algorithms have been verified on multi-objective

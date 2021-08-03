@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Large-Scale Multiobjective Optimization via Problem Decomposition and Reformulation
+title: Manifold Learning Inspired Mating Restriction for Evolutionary Constrained
+  Multiobjective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-03T13:11:33+08:00
+lastmod: 2021-08-03T13:11:42+08:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:33.286375Z'
+publishDate: '2021-08-03T05:11:42.654073Z'
 publication_types:
 - '1'
 abstract: ''

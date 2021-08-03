@@ -16,7 +16,7 @@ tags:
 - '"Reference vectors"'
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-02T18:08:51+08:00
+lastmod: 2021-08-03T13:11:28+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:51.196827Z'
+publishDate: '2021-08-03T05:11:27.789858Z'
 publication_types:
 - '1'
 abstract: Inverse model based multiobjective evolutionary algorithm aims to sample

@@ -25,7 +25,7 @@ tags:
 - '"reference vector"'
 categories: []
 date: '2017-04-01'
-lastmod: 2021-08-02T18:09:02+08:00
+lastmod: 2021-08-03T13:11:39+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:02.767577Z'
+publishDate: '2021-08-03T05:11:39.787661Z'
 publication_types:
 - '2'
 abstract: Many real-world optimization problems have more than three objectives, which

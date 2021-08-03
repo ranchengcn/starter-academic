@@ -19,7 +19,7 @@ tags:
 - '"Parallel algorithm"'
 categories: []
 date: '2021-10-01'
-lastmod: 2021-08-02T18:08:57+08:00
+lastmod: 2021-08-03T13:11:34+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:57.304348Z'
+publishDate: '2021-08-03T05:11:34.203520Z'
 publication_types:
 - '2'
 abstract: Community detection in large-scale complex networks has recently received

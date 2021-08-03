@@ -22,7 +22,7 @@ tags:
 - '"Testing"'
 categories: []
 date: '2017-12-01'
-lastmod: 2021-08-02T18:09:03+08:00
+lastmod: 2021-08-03T13:11:40+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:03.548534Z'
+publishDate: '2021-08-03T05:11:40.522187Z'
 publication_types:
 - '2'
 abstract: The interests in multiobjective and many-objective optimization have been

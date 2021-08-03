@@ -18,7 +18,7 @@ tags:
 - '"Measurement"'
 categories: []
 date: '2016-07-01'
-lastmod: 2021-08-02T18:08:52+08:00
+lastmod: 2021-08-03T13:11:28+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:52.218114Z'
+publishDate: '2021-08-03T05:11:28.840124Z'
 publication_types:
 - '1'
 abstract: As a pivotal component in multi-objective evolutionary algorithms (MOEAs),

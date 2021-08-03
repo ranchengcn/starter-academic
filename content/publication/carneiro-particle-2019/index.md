@@ -18,7 +18,7 @@ tags:
 - '"Particle swarm"'
 categories: []
 date: '2019-02-01'
-lastmod: 2021-08-02T18:09:00+08:00
+lastmod: 2021-08-03T13:11:37+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:00.550390Z'
+publishDate: '2021-08-03T05:11:37.314746Z'
 publication_types:
 - '2'
 abstract: 'Complex networks provide a powerful tool for data representation due to

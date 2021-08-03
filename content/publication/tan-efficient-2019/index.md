@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Large-Scale Multiobjective Optimization via Problem Decomposition and Reformulation
+title: Efficient evolutionary neural architecture search (NAS) by modular inheritable
+  crossover
 subtitle: ''
 summary: ''
 authors:
-- Lianghao Li
+- Hao Tan
 - Cheng He
+- Dexuan Tang
 - Ran Cheng
-- Linqiang Pan
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-08-03T13:11:33+08:00
+date: '2019-01-01'
+lastmod: 2021-08-03T13:11:43+08:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:33.286375Z'
+publishDate: '2021-08-03T05:11:42.846853Z'
 publication_types:
 - '1'
 abstract: ''

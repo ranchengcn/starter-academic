@@ -25,7 +25,7 @@ tags:
 - '"indicator-based selection"'
 categories: []
 date: '2018-08-01'
-lastmod: 2021-08-02T18:09:03+08:00
+lastmod: 2021-08-03T13:11:40+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:09:03.317152Z'
+publishDate: '2021-08-03T05:11:40.341188Z'
 publication_types:
 - '2'
 abstract: During the past two decades, a variety of multiobjective evolutionary algorithms

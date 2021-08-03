@@ -17,7 +17,7 @@ tags:
 - '"Learning systems"'
 categories: []
 date: '2014-07-01'
-lastmod: 2021-08-02T18:08:51+08:00
+lastmod: 2021-08-03T13:11:28+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-02T10:08:51.828603Z'
+publishDate: '2021-08-03T05:11:28.429023Z'
 publication_types:
 - '1'
 abstract: Social learning plays an important role in behavior learning among social
