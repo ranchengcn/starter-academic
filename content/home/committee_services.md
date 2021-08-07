@@ -28,7 +28,7 @@ item:
   description: "Founding Chair, IEEE CIS Shenzhen Chapter."
   organization: 'IEEE'
   title: 'Chair'
-- date_end: "Now"
+- date_end: ""
   date_start: "2020-01-01"
   description: "Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
   organization: 'IEEE'
