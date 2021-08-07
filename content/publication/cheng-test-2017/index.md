@@ -32,7 +32,7 @@ abstract: The interests in multiobjective and many-objective optimization have
   solve these optimization problems, calling for the need for developing new EAs
   dedicated to large-scale multiobjective and many-objective optimization.
 draft: false
-featured: true
+featured: false
 tags:
   - '"Evolutionary computation"'
   - '"Benchmark testing"'
@@ -53,5 +53,5 @@ image:
 summary: ""
 lastmod: 2021-08-03T13:11:40+08:00
 date: 2017-12-01
-publishDate: 2021-08-03T05:11:40.522187Z
+publishDate: 2021-08-03T05:11:40.522Z
 ---
