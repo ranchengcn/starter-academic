@@ -24,7 +24,7 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2021-03-28"
   description: "2021 International Conference on Evolutionary Multi-Criterion Optimization, Shenzhen, China."
   organization: 'EMO 2021'
   title: 'Organizing Chair'
