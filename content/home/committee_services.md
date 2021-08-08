@@ -25,20 +25,22 @@ date_format: '2006-01-02'
 item:
 - organization: 'IEEE'
   title: 'Founding Chair'
-  description: "IEEE CIS Shenzhen Chapter."
+  description: "IEEE CIS Shenzhen Chapter"
   date_start: "2021-07-01"
   date_end: ""
   url: https://r10.ieee.org/shenzhen-cis/
 - organization: 'IEEE'
   title: 'Chair'
-  description: "IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
+  description: "IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems"
   date_start: "2020-01-01"
   date_end: ""
-- date_end: ""
-  date_start: "2020-01-01"
-  description: "IEEE CIS Evolutionary Computation Technical Committee."
-  organization: 'IEEE'
+  url: https://www.emigroup.tech/index.php/news/ieee-cis-task-force-on-data-driven-evolutionary-optimization-of-expensive-problems/
+- organization: 'IEEE'
   title: 'Committee Member'
+  description: "IEEE CIS Evolutionary Computation Technical Committee"
+  date_start: "2020-01-01"
+  date_end: ""
+  url: https://cis.ieee.org/technical-committees/evolutionary-computation-technical-committee/30-technical-committees/133-evolutionary-computation-members
 
 design:
   columns: '2' 
