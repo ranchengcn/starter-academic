@@ -1,4 +1,5 @@
 ---
+title: Associate Professor
 role: "Principal Investigator"
 bio: ""
 interests:
@@ -29,7 +30,6 @@ education:
     - course: BEng, Northeastern University, China.
       institution: Northeastern University
       year: 2010
-title: Associate Editor
 superuser: true
 highlight_name: false
 email: ""
