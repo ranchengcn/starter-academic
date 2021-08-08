@@ -16,8 +16,8 @@ social:
     icon_pack: fas
     link: https://publons.com/researcher/1307307/ran-cheng/
 organizations:
-  - name: Department of Computer Science and Engineering, SUSTech
-    url: https://www.sustech.edu.cn/en/
+  - name: Evolving Machine Intelligence (EMI) Group, SUSTech
+    url: https://www.emigroup.tech/
 education:
   courses:
     - course: PhD, University of Surrey, UK.
