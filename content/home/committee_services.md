@@ -23,19 +23,20 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
+- organization: 'IEEE'
+  title: 'Founding Chair'
+  description: "IEEE CIS Shenzhen Chapter."
   date_start: "2021-07-01"
-  description: "Founding Chair, IEEE CIS Shenzhen Chapter."
-  organization: 'IEEE'
+  date_end: ""
+  url: https://r10.ieee.org/shenzhen-cis/
+- organization: 'IEEE'
   title: 'Chair'
+  description: "IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
+  date_start: "2020-01-01"
+  date_end: ""
 - date_end: ""
   date_start: "2020-01-01"
-  description: "Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
-  organization: 'IEEE'
-  title: 'Chair'
-- date_end: ""
-  date_start: "2020-01-01"
-  description: "Committee Member, IEEE CIS Evolutionary Computation Technical Committee."
+  description: "IEEE CIS Evolutionary Computation Technical Committee."
   organization: 'IEEE'
   title: 'Committee Member'
 
