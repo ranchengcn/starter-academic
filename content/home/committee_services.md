@@ -24,6 +24,11 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2021-07-01"
+  description: "Founding Chair, IEEE CIS Shenzhen Chapter."
+  organization: 'IEEE'
+  title: 'Chair'
+- date_end: ""
   date_start: "2020-01-01"
   description: "Chair, IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems."
   organization: 'IEEE'
