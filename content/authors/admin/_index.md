@@ -17,7 +17,7 @@ social:
     icon_pack: fas
     link: https://publons.com/researcher/1307307/ran-cheng/
 organizations:
-  - name: Evolving Machine Intelligence (EMI) Group, SUSTech
+  - name: Evolving Machine Intelligence (EMI) Group
     url: https://www.emigroup.tech/
 education:
   courses:
