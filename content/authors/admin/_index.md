@@ -1,5 +1,5 @@
 ---
-role: "Associate Professor (PI)"
+role: "Principal Investigator"
 bio: ""
 interests:
   - Computational Intelligence
@@ -29,7 +29,7 @@ education:
     - course: BEng, Northeastern University, China.
       institution: Northeastern University
       year: 2010
-title: 
+title: Associate Editor
 superuser: true
 highlight_name: false
 email: ""
