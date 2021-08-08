@@ -23,13 +23,13 @@ education:
   courses:
     - course: PhD, Computer Science
       institution: University of Surrey, UK
-      year: 2016
+      year: 2013-2016
     - course: Postgraduate, Computer Science and Technology
       institution: Zhejiang University, China
-      year: 2012
+      year: 2010-2012
     - course: BEng, Computer Science and Technology
       institution: Northeastern University, China
-      year: 2010
+      year: 2016-2010
 superuser: true
 highlight_name: false
 email: ""
