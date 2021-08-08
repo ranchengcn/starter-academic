@@ -31,7 +31,7 @@ education:
       year: 2010
 superuser: true
 highlight_name: false
-title: Ran Cheng
+title: Ran Cheng (程然)
 email: ""
 ---
 
