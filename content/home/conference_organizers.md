@@ -23,16 +23,17 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
-  date_start: "2021-03-28"
-  description: "2021 International Conference on Evolutionary Multi-Criterion Optimization, Shenzhen, China."
-  organization: 'EMO 2021'
+- organization: 'EMO 2021'
   title: 'Organizing Chair'
-- date_end: "2020-01-01"
-  date_start: "2016-01-01"
-  description: "IEEE Symposium on Model-Based Evolutionary Algorithms."
-  organization: 'IEEE MBEA'
+  description: "2021 International Conference on Evolutionary Multi-Criterion Optimization, Shenzhen, China"
+  date_start: "2021-03-28"
+  date_end: "2021-03-31"
+  url: "https://emo2021.org/"
+- organization: 'IEEE MBEA'
   title: 'Founding Chair'
+  description: "IEEE Symposium on Model-Based Evolutionary Algorithms"
+  date_start: "2016-12-06"
+  date_end: ""
 
 design:
   columns: '2' 
