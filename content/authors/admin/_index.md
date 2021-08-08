@@ -1,6 +1,6 @@
 ---
-title: Associate Professor
-role: "Principal Investigator"
+title: 
+role: Associate Professor
 bio: ""
 interests:
   - Computational Intelligence
