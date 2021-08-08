@@ -7,12 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Accomplishments
+    url: '#committee_services'
+    weight: 30
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Accomplishments
-    url: '#committee_services'
-    weight: 50
+
   
 
 # Link to a PDF of your resume/CV from the menu.
