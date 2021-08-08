@@ -23,12 +23,12 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
-  date_start: "2021-08-01"
-  description: ""
-  organization: 'IEEE Transactions on Cognitive and Developmental Intelligence'
+- organization: 'IEEE Transactions on Cognitive and Developmental Intelligence'
   title: 'Associate Editor'
   url: ""
+  description: ""
+  date_start: "2021-08-01"
+  date_end: ""
 - date_end: ""
   date_start: "2020-04-01"
   description: ""
