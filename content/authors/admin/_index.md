@@ -1,6 +1,6 @@
 ---
 title: 
-role: Associate Professor
+role: Associate Professor (PI)
 bio: ""
 interests:
   - Computational Intelligence
