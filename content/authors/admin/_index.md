@@ -24,7 +24,7 @@ education:
     - course: PhD, Computer Science
       institution: University of Surrey, UK
       year: 2016
-    - course: Postgraduate,Computer Science and Technology
+    - course: Postgraduate, Computer Science and Technology
       institution: Zhejiang University, China
       year: 2012
     - course: BEng, Computer Science and Technology
