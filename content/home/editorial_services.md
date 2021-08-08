@@ -25,33 +25,33 @@ date_format: '2006-01-02'
 item:
 - organization: 'IEEE Transactions on Cognitive and Developmental Intelligence'
   title: 'Associate Editor'
-  url: ""
-  description: ""
   date_start: "2021-08-01"
   date_end: ""
-- date_end: ""
+  url: ""
+  description: ""
+- organization: 'IEEE Transactions on Artificial Intelligence'
+  title: 'Associate Editor'
   date_start: "2020-04-01"
-  description: ""
-  organization: 'IEEE Transactions on Artificial Intelligence'
-  title: 'Associate Editor'
+  date_end: ""
   url: ""
-- date_end: ""
-  date_start: "2018-01-01"
   description: ""
-  organization: 'IEEE Access'
+- organization: 'IEEE Access'
   title: 'Associate Editor'
-  url: ""
-- date_end: ""
   date_start: "2018-01-01"
+  date_end: ""
   description: ""
-  organization: 'Applied Soft Computing'
+  url: ""
+- organization: 'Applied Soft Computing'
   title: 'Editorial Board Member'
+  date_start: "2018-01-01"
+  date_end: ""
+  description: ""
   url: ""
-- date_end: ""
+- organization: 'Complex & Intelligent Systems'
+  title: 'Editorial Board Member'
   date_start: "2017-01-01"
+  date_end: ""
   description: ""
-  organization: 'Complex & Intelligent Systems'
-  title: 'Editorial Board Member'
   url: ""
 
 design:
