@@ -21,14 +21,14 @@ organizations:
     url: https://www.emigroup.tech/
 education:
   courses:
-    - course: PhD, University of Surrey, UK.
-      institution: University of Surrey
+    - course: PhD, Computer Science
+      institution: University of Surrey, UK
       year: 2016
-    - course: Postgraduate, Zhejiang University, China.
-      institution: Zhejiang University
+    - course: Postgraduate,Computer Science and Technology
+      institution: Zhejiang University, China
       year: 2012
-    - course: BEng, Northeastern University, China.
-      institution: Northeastern University
+    - course: BEng, Computer Science and Technology
+      institution: Northeastern University, China
       year: 2010
 superuser: true
 highlight_name: false
