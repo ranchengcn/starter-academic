@@ -28,25 +28,25 @@ item:
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: ""
+  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
 - date_end: ""
   date_start: "2019-07-01"
   description: "IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award"
   organization: 'IEEE'
   title: 'Outstanding PhD Dissertation Award'
-  url: ""
+  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward"
 - date_end: ""
   date_start: "2020-07-01"
   description: "IEEE Computational Intelligence Magazine Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: ""
+  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#CIMOutstandingPaperAward"
 - date_end: ""
   date_start: "2021-07-01"
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: ""
+  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
 
 design:
   columns: '2' 
