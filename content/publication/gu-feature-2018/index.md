@@ -11,8 +11,8 @@ authors:
 - Yaochu Jin
 tags: []
 categories: []
-date: '2018-02-01'
-lastmod: 2021-08-03T13:11:38+08:00
+date: '2018-01-01'
+lastmod: 2021-08-27T07:33:36+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:37.980184Z'
+publishDate: '2021-08-26T23:33:36.476198Z'
 publication_types:
 - '2'
 abstract: When solving many machine learning problems such as classification, there

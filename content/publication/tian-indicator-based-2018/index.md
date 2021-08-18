@@ -12,7 +12,6 @@ authors:
 - Fan Cheng
 - Yaochu Jin
 tags:
-- '"Shape"'
 - '"Evolutionary computation"'
 - '"Optimization"'
 - '"Sociology"'
@@ -20,12 +19,13 @@ tags:
 - '"Electronic mail"'
 - '"Computer science"'
 - '"many-objective optimization"'
+- '"Shape"'
 - '"evolutionary multiobjective optimization"'
 - '"Adaptive reference point"'
 - '"indicator-based selection"'
 categories: []
-date: '2018-08-01'
-lastmod: 2021-08-03T13:11:40+08:00
+date: '2018-01-01'
+lastmod: 2021-08-27T07:33:39+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:40.341188Z'
+publishDate: '2021-08-26T23:33:38.855885Z'
 publication_types:
 - '2'
 abstract: During the past two decades, a variety of multiobjective evolutionary algorithms

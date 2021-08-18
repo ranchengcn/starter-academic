@@ -12,9 +12,9 @@ authors:
 - Kay Chen Tan
 - Yaochu Jin
 tags:
-- '"Training data"'
 - '"Evolutionary computation"'
 - '"Optimization"'
+- '"Training data"'
 - '"Computational modeling"'
 - '"multiobjective optimization"'
 - '"Deep learning"'
@@ -25,8 +25,8 @@ tags:
 - '"generative adversarial networks (GANs)"'
 - '"machine learning"'
 categories: []
-date: '2021-06-01'
-lastmod: 2021-08-03T13:11:42+08:00
+date: '2021-01-01'
+lastmod: 2021-08-27T07:33:41+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:42.478845Z'
+publishDate: '2021-08-26T23:33:40.809750Z'
 publication_types:
 - '2'
 abstract: Recently, increasing works have been proposed to drive evolutionary algorithms

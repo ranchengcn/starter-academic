@@ -18,8 +18,8 @@ tags:
 - '"Algorithm design and analysis"'
 - '"MATLAB"'
 categories: []
-date: '2017-11-01'
-lastmod: 2021-08-03T13:11:39+08:00
+date: '2017-01-01'
+lastmod: 2021-08-27T07:33:38+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:39.565756Z'
+publishDate: '2021-08-26T23:33:38.001194Z'
 publication_types:
 - '2'
 abstract: 'Over the last three decades, a large number of evolutionary algorithms

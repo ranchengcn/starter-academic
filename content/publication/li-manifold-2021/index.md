@@ -10,10 +10,14 @@ authors:
 - Cheng He
 - Ran Cheng
 - Linqiang Pan
-tags: []
+tags:
+- '"Constraint handling"'
+- '"Mating restriction"'
+- '"Mating selection"'
+- '"Multiobjective optimization"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-03T13:11:42+08:00
+lastmod: 2021-08-27T07:33:41+08:00
 featured: false
 draft: false
 
@@ -31,9 +35,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:42.654073Z'
+publishDate: '2021-08-26T23:33:41.023245Z'
 publication_types:
 - '1'
-abstract: ''
-publication: ''
+abstract: Mating restriction strategies are capable of restricting the distribution
+  of parent solutions for effective offspring generation in evolutionary algorithms
+  (EAs). Studies have shown the importance of these strategies in improving the performance
+  of EAs for multiobjective optimization. Our previous study proposed a specific manifold
+  learning inspired mating restriction (MLMR) strategy. It has shown promising capability
+  of solving multiobjective optimization problems (MOPs) with complicated Pareto set
+  shapes. However, the effect of mating restriction strategies in solving constrained
+  MOPs is yet to be well studied. Here, we investigate the effectiveness of MLMR for
+  solving constrained MOPs. The MLMR strategy is embedded into some representative
+  multiobjective EAs and tested on various benchmark constrained MOPs. Experimental
+  results indicate the encouraging performance of MLMR in constrained multiobjective
+  optimization.
+publication: '*Evolutionary Multi-Criterion Optimization*'
+doi: 10.1007/978-3-030-72062-9_24
 ---

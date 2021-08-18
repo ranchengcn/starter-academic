@@ -11,9 +11,9 @@ authors:
 - Yaochu Jin
 - Liang Zhao
 tags:
-- '"Training data"'
 - '"Optimization"'
 - '"Particle swarm optimization"'
+- '"Training data"'
 - '"Dimensionality reduction"'
 - '"Graph-based dimensionality reduction"'
 - '"graph-based machine learning"'
@@ -22,8 +22,8 @@ tags:
 - '"Rain"'
 - '"Symmetric matrices"'
 categories: []
-date: '2017-11-01'
-lastmod: 2021-08-03T13:11:30+08:00
+date: '2017-01-01'
+lastmod: 2021-08-27T07:33:29+08:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:30.163206Z'
+publishDate: '2021-08-26T23:33:28.894948Z'
 publication_types:
 - '1'
 abstract: 'Graph-based dimensionality reduction has attracted a lot of attention in

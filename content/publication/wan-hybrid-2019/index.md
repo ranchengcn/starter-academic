@@ -24,8 +24,8 @@ tags:
 - '"Linear programming"'
 - '"Surrogate-assisted evolutionary optimization"'
 categories: []
-date: '2019-06-01'
-lastmod: 2021-08-03T13:11:30+08:00
+date: '2019-01-01'
+lastmod: 2021-08-27T07:33:29+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:30.390538Z'
+publishDate: '2021-08-26T23:33:29.112398Z'
 publication_types:
 - '1'
 abstract: Many real-world optimization problems are challenging because the evaluation

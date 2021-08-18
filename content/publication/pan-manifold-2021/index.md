@@ -25,8 +25,8 @@ tags:
 - '"Principal component analysis"'
 - '"Self-organizing feature maps"'
 categories: []
-date: '2021-06-01'
-lastmod: 2021-08-03T13:11:32+08:00
+date: '2021-01-01'
+lastmod: 2021-08-27T07:33:30+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:31.972804Z'
+publishDate: '2021-08-26T23:33:30.627643Z'
 publication_types:
 - '2'
 abstract: Under certain smoothness assumptions, the Pareto set of a continuous multiobjective

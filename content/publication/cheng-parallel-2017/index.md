@@ -18,8 +18,8 @@ tags:
 - '"Two dimensional displays"'
 - '"Visualization"'
 categories: []
-date: '2017-06-01'
-lastmod: 2021-08-03T13:11:29+08:00
+date: '2017-01-01'
+lastmod: 2021-08-27T07:33:28+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:29.266315Z'
+publishDate: '2021-08-26T23:33:28.028463Z'
 publication_types:
 - '1'
 abstract: Multimodal optimization has attracted increasing interest recently. Despite

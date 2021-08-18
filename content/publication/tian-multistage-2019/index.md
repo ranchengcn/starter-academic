@@ -22,7 +22,7 @@ tags:
 - '"Portfolios"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-03T13:11:36+08:00
+lastmod: 2021-08-27T07:33:35+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:36.754742Z'
+publishDate: '2021-08-26T23:33:35.178988Z'
 publication_types:
 - '2'
 abstract: Diversity preservation is a crucial technique in multiobjective evolutionary

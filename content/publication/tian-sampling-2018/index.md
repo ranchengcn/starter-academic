@@ -20,8 +20,8 @@ tags:
 - '"Hypercubes"'
 - '"Sampling methods"'
 categories: []
-date: '2018-07-01'
-lastmod: 2021-08-03T13:11:30+08:00
+date: '2018-01-01'
+lastmod: 2021-08-27T07:33:28+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:29.953670Z'
+publishDate: '2021-08-26T23:33:28.678554Z'
 publication_types:
 - '1'
 abstract: The effectiveness of evolutionary algorithms have been verified on multi-objective

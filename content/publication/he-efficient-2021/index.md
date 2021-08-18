@@ -15,8 +15,8 @@ tags:
 - '"Inheritable crossover"'
 - '"Neural architecture search"'
 categories: []
-date: '2021-07-01'
-lastmod: 2021-08-03T13:11:30+08:00
+date: '2021-01-01'
+lastmod: 2021-08-27T07:33:29+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:30.623518Z'
+publishDate: '2021-08-26T23:33:29.328021Z'
 publication_types:
 - '2'
 abstract: Deep neural networks are widely used in the domain of image classification,

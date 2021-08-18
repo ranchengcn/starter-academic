@@ -15,10 +15,14 @@ authors:
 - Jun Gao
 - Qi Guo
 - Ran Cheng
-tags: []
+tags:
+- '"Acromegaly"'
+- '"Deep learning"'
+- '"Facial photographs"'
+- '"Severity-classification model"'
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-03T13:11:36+08:00
+lastmod: 2021-08-27T07:33:34+08:00
 featured: false
 draft: false
 
@@ -36,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-03T05:11:35.885550Z'
+publishDate: '2021-08-26T23:33:34.309534Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis
