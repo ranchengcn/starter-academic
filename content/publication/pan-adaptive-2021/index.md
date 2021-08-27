@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Adaptive Simulated Binary cCrossover for Rotated Multi-objective Optimization
+title: Adaptive Simulated Binary Crossover for Rotated Multi-objective Optimization
 subtitle: ''
 summary: ''
 authors:
