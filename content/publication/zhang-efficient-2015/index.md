@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:18.918542Z'
+publishDate: '2021-08-27T06:00:42.324225Z'
 publication_types:
 - '2'
 abstract: Evolutionary algorithms have been shown to be powerful for solving multiobjective

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Constructing an automatic diagnosis and severity-classification model for acromegaly
-  using facial photographs by deep learning
+title: Constructing an Automatic Diagnosis and Severity-classification Model for Acromegaly
+  using Facial Photographs by Deep Learning
 subtitle: ''
 summary: ''
 authors:
@@ -16,8 +16,8 @@ authors:
 - Qi Guo
 - Ran Cheng
 tags:
-- '"Deep learning"'
 - '"Acromegaly"'
+- '"Deep learning"'
 - '"Facial photographs"'
 - '"Severity-classification model"'
 categories: []
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:21.531162Z'
+publishDate: '2021-08-27T06:00:45.075082Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis

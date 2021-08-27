@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A benchmark test suite for evolutionary many-objective optimization
+title: A Benchmark Test Suite for Evolutionary Many-objective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:17.405918Z'
+publishDate: '2021-08-27T06:00:40.696113Z'
 publication_types:
 - '2'
 abstract: In the real world, it is not uncommon to face an optimization problem with

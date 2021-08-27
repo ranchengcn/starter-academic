@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A competitive mechanism based multi-objective particle swarm optimizer with
-  fast convergence
+title: A Competitive Mechanism Based Multi-objective Particle Swarm Optimizer with
+  Fast Convergence
 subtitle: ''
 summary: ''
 authors:
@@ -12,10 +12,10 @@ authors:
 - Jianfeng Qiu
 - Yaochu Jin
 tags:
-- '"Particle swarm optimization"'
+- '"Competitive swarm optimizer"'
 - '"Evolutionary algorithm"'
 - '"Multi-objective optimization"'
-- '"Competitive swarm optimizer"'
+- '"Particle swarm optimization"'
 categories: []
 date: '2018-01-01'
 lastmod: 2021-08-27T07:59:40+08:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:16.099533Z'
+publishDate: '2021-08-27T06:00:39.328396Z'
 publication_types:
 - '2'
 abstract: In the past two decades, multi-objective optimization has attracted increasing

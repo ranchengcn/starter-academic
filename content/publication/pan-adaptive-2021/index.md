@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Adaptive simulated binary crossover for rotated multi-objective optimization
+title: Adaptive Simulated Binary cCrossover for Rotated Multi-objective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -11,9 +11,9 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
+- '"Crossover operator"'
 - '"Evolutionary algorithm"'
 - '"Multi-objective optimization"'
-- '"Crossover operator"'
 - '"Rotated problem"'
 - '"Variable linkage"'
 categories: []
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:13.041156Z'
+publishDate: '2021-08-27T06:00:36.184198Z'
 publication_types:
 - '2'
 abstract: Crossover is a crucial operation for generating promising offspring solutions

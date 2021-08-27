@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:08.253869Z'
+publishDate: '2021-08-27T06:00:31.128700Z'
 publication_types:
 - '1'
 abstract: Surrogate-assisted evolutionary algorithms have played an important role

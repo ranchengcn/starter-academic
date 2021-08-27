@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A visualization method for benchmark studies of multimodal optimization
+title: A Visualization Method for Benchmark Studies of Multimodal Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:19.790778Z'
+publishDate: '2021-08-27T06:00:43.272943Z'
 publication_types:
 - '1'
 abstract: ''

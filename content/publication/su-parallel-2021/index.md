@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A parallel multi-objective evolutionary algorithm for community detection in
-  large-scale complex networks
+title: A Parallel Multi-objective Evolutionary Algorithm for Community Detection in
+  Large-scale Complex Networks
 subtitle: ''
 summary: ''
 authors:
@@ -12,10 +12,10 @@ authors:
 - Ran Cheng
 - Chunhou Zheng
 tags:
-- '"Evolutionary algorithm"'
-- '"Multi-objective optimization"'
 - '"Community detection"'
 - '"Complex network"'
+- '"Evolutionary algorithm"'
+- '"Multi-objective optimization"'
 - '"Parallel algorithm"'
 categories: []
 date: '2021-01-01'
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:11.517123Z'
+publishDate: '2021-08-27T06:00:34.589055Z'
 publication_types:
 - '2'
 abstract: Community detection in large-scale complex networks has recently received

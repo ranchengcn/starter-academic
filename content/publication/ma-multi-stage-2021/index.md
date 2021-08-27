@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A multi-stage evolutionary algorithm for multi-objective optimization with
-  complex constraints
+title: A Multi-stage Evolutionary Algorithm for Multi-objective Optimization with
+  Complex Constraints
 subtitle: ''
 summary: ''
 authors:
@@ -12,9 +12,9 @@ authors:
 - Ran Cheng
 - Xingyi Zhang
 tags:
-- '"Evolutionary algorithm"'
 - '"Constrained multi-objective optimization"'
 - '"Constraint-handling priority"'
+- '"Evolutionary algorithm"'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-27T07:59:36+08:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:11.731379Z'
+publishDate: '2021-08-27T06:00:34.813447Z'
 publication_types:
 - '2'
 abstract: Constrained multi-objective optimization problems (CMOPs) are difficult

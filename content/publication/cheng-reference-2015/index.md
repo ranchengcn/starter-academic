@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reference vector based a posteriori preference articulation for evolutionary
-  multiobjective optimization
+title: Reference Vector Based a posteriori Preference Articulation for Evolutionary
+  Multiobjective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -10,12 +10,12 @@ authors:
 - Markus Olhofer
 - Yaochu Jin
 tags:
-- '"Evolutionary computation"'
-- '"Sociology"'
 - '"Benchmark testing"'
 - '"Decision making"'
 - '"Electronic mail"'
+- '"Evolutionary computation"'
 - '"Pareto optimization"'
+- '"Sociology"'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-08-27T07:59:29+08:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:06.517873Z'
+publishDate: '2021-08-27T06:00:29.327243Z'
 publication_types:
 - '1'
 abstract: Multiobjective evolutionary algorithms (MOEAs) usually achieve a set of

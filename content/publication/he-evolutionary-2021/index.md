@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:19.570661Z'
+publishDate: '2021-08-27T06:00:43.006897Z'
 publication_types:
 - '2'
 abstract: Recently, increasing works have been proposed to drive evolutionary algorithms

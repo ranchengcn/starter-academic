@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A multi-objective evolutionary algorithm based on an enhanced inverted generational
-  distance metric
+title: A Multi-objective Evolutionary Algorithm Based on an Enhanced Inverted Generational
+  Distance Metric
 subtitle: ''
 summary: ''
 authors:
@@ -13,9 +13,9 @@ authors:
 tags:
 - '"Convergence"'
 - '"Evolutionary computation"'
-- '"Sociology"'
-- '"Pareto optimization"'
 - '"Measurement"'
+- '"Pareto optimization"'
+- '"Sociology"'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-08-27T07:59:30+08:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:07.387535Z'
+publishDate: '2021-08-27T06:00:30.227615Z'
 publication_types:
 - '1'
 abstract: As a pivotal component in multi-objective evolutionary algorithms (MOEAs),

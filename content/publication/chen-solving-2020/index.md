@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Solving large-scale many-objective optimization problems by covariance matrix
-  adaptation evolution strategy with scalable small subpopulations
+title: Solving Large-scale Many-objective Optimization Problems by Covariance Matrix
+  Adaptation Evolution Strategy with Scalable Small Subpopulations
 subtitle: ''
 summary: ''
 authors:
@@ -12,10 +12,10 @@ authors:
 - Haifeng Li
 - Jian Weng
 tags:
-- '"Evolutionary algorithm"'
-- '"Many-objective optimization"'
 - '"CMA-ES"'
+- '"Evolutionary algorithm"'
 - '"Large-scale multi-objective optimization"'
+- '"Many-objective optimization"'
 - '"Scalable populations"'
 categories: []
 date: '2020-01-01'
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:14.126547Z'
+publishDate: '2021-08-27T06:00:37.310429Z'
 publication_types:
 - '2'
 abstract: Despite the recent development in evolutionary multi- and many-objective

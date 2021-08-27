@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reformulating preferences into constraints for evolutionary multi- and many-objective
-  optimization
+title: Reformulating Preferences into Constraints for Evolutionary Multi- and Many-objective
+  Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -10,9 +10,9 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
-- '"Multiobjective optimization"'
 - '"Constraint handling"'
 - '"Many-objective optimization"'
+- '"Multiobjective optimization"'
 - '"Preference articulation"'
 categories: []
 date: '2020-01-01'
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:13.476063Z'
+publishDate: '2021-08-27T06:00:36.629219Z'
 publication_types:
 - '2'
 abstract: Despite that the reference point based preference articulation plays a vital

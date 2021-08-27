@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:08.038143Z'
+publishDate: '2021-08-27T06:00:30.910170Z'
 publication_types:
 - '1'
 abstract: Visualizing a high-dimensional solution set over the evolution process is

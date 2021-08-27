@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Adaptive dropout for high-dimensional expensive multiobjective optimization
+title: Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:21.748402Z'
+publishDate: '2021-08-27T06:00:45.294465Z'
 publication_types:
 - '2'
 abstract: Various works have been proposed to solve expensive multiobjective optimization

@@ -11,13 +11,13 @@ authors:
 - Xiaowei Xue
 - Bin Shen
 tags:
-- '"Benchmark testing"'
-- '"Biological cells"'
-- '"Educational institutions"'
-- '"Evolution (biology)"'
 - '"Evolutionary computation"'
-- '"Genetic algorithms"'
 - '"Optimization"'
+- '"Educational institutions"'
+- '"Benchmark testing"'
+- '"Evolution (biology)"'
+- '"Genetic algorithms"'
+- '"Biological cells"'
 categories: []
 date: '2012-06-01'
 lastmod: 2021-08-27T09:42:23+08:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:22.185191Z'
+publishDate: '2021-08-27T06:00:45.742776Z'
 publication_types:
 - '1'
 abstract: Sexual reproduction plays an important role in evolution. However, in classic

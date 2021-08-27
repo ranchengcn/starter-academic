@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An inverse design method for supercritical airfoil based on conditional generative
-  models
+title: An Inverse Design Method for Supercritical Airfoil Based on Conditional Generative
+  Models
 subtitle: ''
 summary: ''
 authors:
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:11.301600Z'
+publishDate: '2021-08-27T06:00:34.347306Z'
 publication_types:
 - '2'
 abstract: Inverse design has long been an efficient and powerful design tool in the

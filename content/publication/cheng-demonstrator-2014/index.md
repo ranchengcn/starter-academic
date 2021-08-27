@@ -8,13 +8,13 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
+- '"Sociology"'
+- '"Statistics"'
+- '"Particle swarm optimization"'
 - '"Benchmark testing"'
 - '"Gaussian distribution"'
 - '"Indexes"'
 - '"Learning systems"'
-- '"Particle swarm optimization"'
-- '"Sociology"'
-- '"Statistics"'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-08-27T07:59:30+08:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:06.954533Z'
+publishDate: '2021-08-27T06:00:29.778967Z'
 publication_types:
 - '1'
 abstract: Social learning plays an important role in behavior learning among social

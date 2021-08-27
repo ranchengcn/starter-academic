@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:06.298749Z'
+publishDate: '2021-08-27T06:00:29.096925Z'
 publication_types:
 - '1'
 abstract: Inverse model based multiobjective evolutionary algorithm aims to sample

@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:20.441162Z'
+publishDate: '2021-08-27T06:00:43.956316Z'
 publication_types:
 - '2'
 abstract: 'Dense video captioning aims to generate multiple associated captions with

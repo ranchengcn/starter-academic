@@ -8,13 +8,13 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Aerospace electronics"'
 - '"Convergence"'
-- '"Educational institutions"'
 - '"Optimization"'
-- '"Particle swarm optimization"'
 - '"Sociology"'
 - '"Statistics"'
+- '"Aerospace electronics"'
+- '"Educational institutions"'
+- '"Particle swarm optimization"'
 categories: []
 date: '2013-01-01'
 lastmod: 2021-08-27T07:59:29+08:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:06.082622Z'
+publishDate: '2021-08-27T06:00:28.863668Z'
 publication_types:
 - '1'
 abstract: Competitive particle swarm optimizer (ComPSO) is a novel swarm intelligence

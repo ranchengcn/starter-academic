@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:10.428725Z'
+publishDate: '2021-08-27T06:00:33.421717Z'
 publication_types:
 - '2'
 abstract: In this paper, we propose a framework to accelerate the computational efficiency

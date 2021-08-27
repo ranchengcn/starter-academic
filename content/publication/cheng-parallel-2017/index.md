@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Parallel peaks: A visualization method for benchmark studies of multimodal
-  optimization'
+title: 'Parallel Peaks: A Visualization Method for Benchmark Studies of Multimodal
+  Optimization'
 subtitle: ''
 summary: ''
 authors:
@@ -10,11 +10,11 @@ authors:
 - Miqing Li
 - Xin Yao
 tags:
+- '"Benchmark testing"'
+- '"Data visualization"'
 - '"Optimization"'
 - '"Sociology"'
 - '"Statistics"'
-- '"Benchmark testing"'
-- '"Data visualization"'
 - '"Two dimensional displays"'
 - '"Visualization"'
 categories: []
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:07.822924Z'
+publishDate: '2021-08-27T06:00:30.678072Z'
 publication_types:
 - '1'
 abstract: Multimodal optimization has attracted increasing interest recently. Despite

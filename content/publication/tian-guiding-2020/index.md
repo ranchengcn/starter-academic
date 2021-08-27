@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:19.353512Z'
+publishDate: '2021-08-27T06:00:42.786757Z'
 publication_types:
 - '2'
 abstract: In evolutionary multiobjective optimization, the Pareto front (PF) is approximated

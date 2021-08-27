@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A two-stage R2 indicator based evolutionary algorithm for many-objective optimization
+title: A two-stage R2 indicator Based Evolutionary Algorithm for Many-objective Optimization
 subtitle: ''
 summary: ''
 authors:
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:15.881972Z'
+publishDate: '2021-08-27T06:00:39.101936Z'
 publication_types:
 - '2'
 abstract: R2 indicator based multi-objective evolutionary algorithms (R2-MOEAs) have

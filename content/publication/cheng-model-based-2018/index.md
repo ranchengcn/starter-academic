@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Model-based evolutionary algorithms: a short survey'
+title: 'Model-based Evolutionary Algorithms: a Short Survey'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:55:16.317187Z'
+publishDate: '2021-08-27T06:00:39.556746Z'
 publication_types:
 - '2'
 abstract: The evolutionary algorithms (EAs) are a family of nature-inspired algorithms
