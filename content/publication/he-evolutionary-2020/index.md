@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:37.571288Z'
+publishDate: '2021-08-27T01:42:14.308274Z'
 publication_types:
 - '2'
 abstract: Ratio error (RE) estimation of the voltage transformers (VTs) plays an important

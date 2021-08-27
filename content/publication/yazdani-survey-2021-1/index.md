@@ -13,19 +13,19 @@ authors:
 - Yaochu Jin
 - Xin Yao
 tags:
+- '"Search problems"'
+- '"Sociology"'
 - '"Benchmark testing"'
+- '"Heuristic algorithms"'
+- '"unconstrained continuous dynamic optimization"'
+- '"multipopulation"'
+- '"Resource management"'
 - '"Change detection"'
 - '"Classification algorithms"'
 - '"evolutionary algorithms (EA)"'
-- '"Heuristic algorithms"'
-- '"multipopulation"'
-- '"Resource management"'
 - '"response component"'
-- '"Search problems"'
-- '"Sociology"'
 - '"taxonomy"'
 - '"Taxonomy"'
-- '"unconstrained continuous dynamic optimization"'
 categories: []
 date: '2021-08-01'
 lastmod: 2021-08-27T07:59:44+08:00
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:44.487055Z'
+publishDate: '2021-08-27T01:42:21.012506Z'
 publication_types:
 - '2'
 abstract: Many real-world optimization problems are dynamic. The field of dynamic

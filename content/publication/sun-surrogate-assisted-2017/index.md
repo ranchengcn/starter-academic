@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:41.484364Z'
+publishDate: '2021-08-27T01:42:18.204400Z'
 publication_types:
 - '2'
 abstract: Surrogate models have shown to be effective in assisting metaheuristic algorithms

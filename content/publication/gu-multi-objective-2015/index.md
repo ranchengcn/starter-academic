@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multi-objective ensemble generation
+title: Multi-objective Ensemble Generation
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:43.435649Z'
+publishDate: '2021-08-27T01:42:20.148944Z'
 publication_types:
 - '2'
 abstract: 'Ensemble methods that combine a committee of machine-learning models, each

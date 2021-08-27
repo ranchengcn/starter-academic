@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Network structural optimization based on swarm intelligence for highlevel classification
+title: Network Structural Optimization Based on Swarm Intelligence for Highlevel Classification
 subtitle: ''
 summary: ''
 authors:
@@ -10,11 +10,11 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Optimization"'
-- '"Particle swarm optimization"'
 - '"Biological system modeling"'
 - '"Complex networks"'
 - '"Mathematical model"'
+- '"Optimization"'
+- '"Particle swarm optimization"'
 - '"Supervised learning"'
 - '"Training data"'
 categories: []
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:30.002102Z'
+publishDate: '2021-08-27T01:42:07.762521Z'
 publication_types:
 - '1'
 abstract: While most part of the complex network models are described in function

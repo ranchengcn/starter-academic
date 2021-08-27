@@ -11,10 +11,10 @@ authors:
 - Ran Cheng
 - Linqiang Pan
 tags:
+- '"Multiobjective optimization"'
 - '"Constraint handling"'
 - '"Mating restriction"'
 - '"Mating selection"'
-- '"Multiobjective optimization"'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-27T07:59:44+08:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:44.075001Z'
+publishDate: '2021-08-27T01:42:22.965580Z'
 publication_types:
 - '1'
 abstract: Mating restriction strategies are capable of restricting the distribution

@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:38.003791Z'
+publishDate: '2021-08-27T01:42:14.741593Z'
 publication_types:
 - '2'
 abstract: Offspring generation plays an important role in evolutionary multiobjective

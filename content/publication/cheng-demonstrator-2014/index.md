@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Demonstrator selection in a social learning particle swarm optimizer
+title: Demonstrator Selection in a Social Learning Particle Swarm Optimizer
 subtitle: ''
 summary: ''
 authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Sociology"'
-- '"Statistics"'
-- '"Particle swarm optimization"'
 - '"Benchmark testing"'
 - '"Gaussian distribution"'
 - '"Indexes"'
 - '"Learning systems"'
+- '"Particle swarm optimization"'
+- '"Sociology"'
+- '"Statistics"'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-08-27T07:59:30+08:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:30.221178Z'
+publishDate: '2021-08-27T01:42:07.982069Z'
 publication_types:
 - '1'
 abstract: Social learning plays an important role in behavior learning among social

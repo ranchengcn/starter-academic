@@ -16,8 +16,8 @@ authors:
 - Qi Guo
 - Ran Cheng
 tags:
-- '"Acromegaly"'
 - '"Deep learning"'
+- '"Acromegaly"'
 - '"Facial photographs"'
 - '"Severity-classification model"'
 categories: []
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:37.353339Z'
+publishDate: '2021-08-27T01:42:22.526977Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis

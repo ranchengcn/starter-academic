@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:37.138174Z'
+publishDate: '2021-08-27T01:42:14.089070Z'
 publication_types:
 - '2'
 abstract: Crossover is a crucial operation for generating promising offspring solutions

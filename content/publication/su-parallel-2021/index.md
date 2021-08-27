@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-26T23:59:35.631950Z'
+publishDate: '2021-08-27T01:42:12.567394Z'
 publication_types:
 - '2'
 abstract: Community detection in large-scale complex networks has recently received
