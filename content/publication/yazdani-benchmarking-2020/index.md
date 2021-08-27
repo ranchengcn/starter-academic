@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:13.870880Z'
+publishDate: '2021-08-27T01:55:12.821302Z'
 publication_types:
 - '2'
 abstract: Dynamic changes are an important and inescapable aspect of many real-world

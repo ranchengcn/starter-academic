@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:14.525768Z'
+publishDate: '2021-08-27T01:55:13.476063Z'
 publication_types:
 - '2'
 abstract: Despite that the reference point based preference articulation plays a vital

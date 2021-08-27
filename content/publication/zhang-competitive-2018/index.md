@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:17.129597Z'
+publishDate: '2021-08-27T01:55:16.099533Z'
 publication_types:
 - '2'
 abstract: In the past two decades, multi-objective optimization has attracted increasing

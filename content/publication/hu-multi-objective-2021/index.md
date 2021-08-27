@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:11.696085Z'
+publishDate: '2021-08-27T01:55:10.647964Z'
 publication_types:
 - '1'
 abstract: In the recent past, neural architecture search (NAS) has attracted increasing

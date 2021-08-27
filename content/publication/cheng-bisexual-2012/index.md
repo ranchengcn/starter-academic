@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:23.181409Z'
+publishDate: '2021-08-27T01:55:22.185191Z'
 publication_types:
 - '1'
 abstract: Sexual reproduction plays an important role in evolution. However, in classic

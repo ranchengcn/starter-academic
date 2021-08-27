@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:07.762521Z'
+publishDate: '2021-08-27T01:55:06.734150Z'
 publication_types:
 - '1'
 abstract: While most part of the complex network models are described in function

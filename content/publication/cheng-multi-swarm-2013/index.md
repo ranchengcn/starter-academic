@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T01:42:06.882833Z'
+publishDate: '2021-08-27T01:55:05.864254Z'
 publication_types:
 - '1'
 abstract: Most evolutionary algorithms, including particle swarm optimization (PSO)
