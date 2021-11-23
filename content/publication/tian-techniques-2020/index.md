@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:32.030385Z'
+publishDate: '2021-11-23T11:20:48.656798Z'
 publication_types:
 - '1'
 abstract: It has been widely recognized that evolutionary computation is one of the

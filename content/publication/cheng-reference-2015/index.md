@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:29.327243Z'
+publishDate: '2021-11-23T11:20:39.954317Z'
 publication_types:
 - '1'
 abstract: Multiobjective evolutionary algorithms (MOEAs) usually achieve a set of

@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:45.075082Z'
+publishDate: '2021-11-23T11:21:30.050347Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis

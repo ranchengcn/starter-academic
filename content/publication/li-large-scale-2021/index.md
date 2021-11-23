@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:44.397195Z'
+publishDate: '2021-11-23T11:21:27.869536Z'
 publication_types:
 - '1'
 abstract: Large-scale multiobjective optimization problems (LSMOPs) are challenging

@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:44.634306Z'
+publishDate: '2021-11-23T11:21:28.599803Z'
 publication_types:
 - '2'
 abstract: Deep neural networks are widely used in the domain of image classification,

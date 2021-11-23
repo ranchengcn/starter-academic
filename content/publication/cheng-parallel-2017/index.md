@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:30.678072Z'
+publishDate: '2021-11-23T11:20:44.307499Z'
 publication_types:
 - '1'
 abstract: Multimodal optimization has attracted increasing interest recently. Despite

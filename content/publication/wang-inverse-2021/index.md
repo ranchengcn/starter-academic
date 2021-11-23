@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:34.347306Z'
+publishDate: '2021-11-23T11:20:55.934545Z'
 publication_types:
 - '2'
 abstract: Inverse design has long been an efficient and powerful design tool in the

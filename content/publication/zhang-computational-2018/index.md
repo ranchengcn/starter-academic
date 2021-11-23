@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:38.871437Z'
+publishDate: '2021-11-23T11:21:10.455971Z'
 publication_types:
 - '2'
 abstract: In recent years, state-of-the-art computational modeling of physical and

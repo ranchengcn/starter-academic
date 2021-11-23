@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:45.523487Z'
+publishDate: '2021-11-23T11:21:31.501399Z'
 publication_types:
 - '1'
 abstract: Mating restriction strategies are capable of restricting the distribution

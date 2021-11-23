@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:43.496921Z'
+publishDate: '2021-11-23T11:21:24.959683Z'
 publication_types:
 - '2'
 abstract: Many real-world optimization problems are dynamic. The field of dynamic

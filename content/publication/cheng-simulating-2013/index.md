@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:28.863668Z'
+publishDate: '2021-11-23T11:20:38.502101Z'
 publication_types:
 - '1'
 abstract: Competitive particle swarm optimizer (ComPSO) is a novel swarm intelligence

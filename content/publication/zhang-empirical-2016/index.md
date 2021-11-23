@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:30.009155Z'
+publishDate: '2021-11-23T11:20:42.129622Z'
 publication_types:
 - '1'
 abstract: Non-dominated sorting has been widely adopted in evolutionary multi-objective

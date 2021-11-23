@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-27T06:00:31.347797Z'
+publishDate: '2021-11-23T11:20:46.481190Z'
 publication_types:
 - '1'
 abstract: The effectiveness of evolutionary algorithms have been verified on multi-objective
