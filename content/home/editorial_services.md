@@ -23,6 +23,12 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: 'IEEE Transactions on Evolutionary Computation'
+  title: 'Associate Editor'
+  date_start: "2022-01-01"
+  date_end: ""
+  url: "https://cis.ieee.org/publications/t-evolutionary-computation/tevc-editor-and-associate-editors"
+  description: ""
 - organization: 'IEEE Transactions on Cognitive and Developmental Intelligence'
   title: 'Associate Editor'
   date_start: "2021-08-01"
