@@ -9,18 +9,18 @@ authors:
 - Ran Cheng
 - Danial Yazdani
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Sociology"'
-- '"Pareto optimization"'
-- '"multiobjective optimization"'
-- '"Maintenance engineering"'
-- '"evolutionary algorithm (EA)"'
-- '"Adaptive offspring generation"'
-- '"large-scale"'
+- Adaptive offspring generation
+- Convergence
+- evolutionary algorithm (EA)
+- Evolutionary computation
+- large-scale
+- Maintenance engineering
+- multiobjective optimization
+- Pareto optimization
+- Sociology
 categories: []
-date: '2020-01-01'
-lastmod: 2021-08-27T07:59:38+08:00
+date: '2022-02-01'
+lastmod: 2022-03-02T20:51:33+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:03.921535Z'
+publishDate: '2022-03-02T12:51:32.368415Z'
 publication_types:
 - '2'
 abstract: Offspring generation plays an important role in evolutionary multiobjective
