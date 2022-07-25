@@ -80,10 +80,9 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-  view: 4
 projects:
   post_view: 2
-  publication_view: 2
+  publication_view: 4
   talk_view: 2
 breadcrumb:
   page_types:
