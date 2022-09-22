@@ -41,12 +41,6 @@ item:
   date_end: ""
   url: "https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/editors-and-associate-editors"
   description: ""
-- organization: 'IEEE Access'
-  title: 'Associate Editor'
-  date_start: "2018-01-01"
-  date_end: ""
-  description: ""
-  url: "https://ieeeaccess.ieee.org/editorial-leadership/associate-editors/#C"
 - organization: 'Applied Soft Computing'
   title: 'Editorial Board Member'
   date_start: "2018-01-01"
