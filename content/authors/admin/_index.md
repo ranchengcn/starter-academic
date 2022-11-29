@@ -26,7 +26,7 @@ education:
     - course: Postgraduate, Computer Science and Technology
       institution: Zhejiang University, China
       year: 2010 - 2012
-    - course: BEng, Computer Science and Technology
+    - course: BSc, Computer Science and Technology
       institution: Northeastern University, China
       year: 2006 - 2010
 superuser: true
