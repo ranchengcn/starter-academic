@@ -28,7 +28,7 @@ education:
       year: 2010 - 2012
     - course: BEng, Computer Science and Technology
       institution: Northeastern University, China
-      year: 2016 - 2010
+      year: 2006 - 2010
 superuser: true
 highlight_name: false
 title: Ran Cheng
