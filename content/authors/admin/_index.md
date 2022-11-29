@@ -1,5 +1,5 @@
 ---
-role: Associate Professor (PI)
+role: Associate Professor
 bio: ""
 interests:
   - Evolutionary Computation
