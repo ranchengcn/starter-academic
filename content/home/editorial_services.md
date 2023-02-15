@@ -25,6 +25,12 @@ date_format: '2006-01-02'
 item:
 - organization: 'IEEE Transactions on Evolutionary Computation'
   title: 'Associate Editor'
+  date_start: "2023-01-01"
+  date_end: ""
+  url: "https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-editors-and-associate-editors"
+  description: ""
+- organization: 'IEEE Transactions on Evolutionary Computation'
+  title: 'Associate Editor'
   date_start: "2022-01-01"
   date_end: ""
   url: "https://cis.ieee.org/publications/t-evolutionary-computation/tevc-editor-and-associate-editors"
