@@ -2,9 +2,9 @@
 role: Associate Professor
 bio: ""
 interests:
+  - Computational Intelligence
   - Evolutionary Computation
-  - Deep Learning
-  - Reinforcement Learning
+  - Representation Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +38,6 @@ Dr. Ran Cheng, the founder of the [Evolving Machine Intelligence (EMI) Group](ht
 
 His research interests mainly fall into the interdisciplinary fields across evolutionary computation and other major AI branches such as statistical learning and deep learning, to provide end-to-end solutions to optimization \& modeling in scientific research and engineering related applications.
 
-He is the Founding Chair of [IEEE Computational Intelligence Society (CIS) Shenzhen Chapter](https://r10.ieee.org/shenzhen-cis/) and IEEE Symposium on Model Based Evolutionary Algorithms (IEEE MBEA). He serves as an Associated Editor/Editorial Board Member for several journals, including: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cognitive and Developmental Systems, IEEE Transactions on Artificial Intelligence, etc. He is the recipient of the IEEE Transactions on Evolutionary Computation Outstanding Paper Awards (2018, 2021), the IEEE CIS Outstanding PhD Dissertation Award (2019), the IEEE Computational Intelligence Magazine Outstanding Paper Award (2020). He is a Senior Member of IEEE.
+He is the Founding Chair of [IEEE Computational Intelligence Society (CIS) Shenzhen Chapter](https://r10.ieee.org/shenzhen-cis/) and IEEE Symposium on Model Based Evolutionary Algorithms (IEEE MBEA). He serves as an Associated Editor/Editorial Board Member for several journals, including: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Transactions on Cognitive and Developmental Systems, IEEE Transactions on Artificial Intelligence, etc. He is the recipient of the IEEE Transactions on Evolutionary Computation Outstanding Paper Awards (2018, 2021), the IEEE CIS Outstanding PhD Dissertation Award (2019), the IEEE Computational Intelligence Magazine Outstanding Paper Award (2020). He is a Senior Member of IEEE.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ran-cheng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
