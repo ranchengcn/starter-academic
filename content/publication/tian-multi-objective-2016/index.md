@@ -11,14 +11,14 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Measurement"'
-- '"Pareto optimization"'
-- '"Sociology"'
+- Evolutionary computation
+- Pareto optimization
+- Sociology
+- Convergence
+- Measurement
 categories: []
 date: '2016-01-01'
-lastmod: 2021-08-27T07:59:30+08:00
+lastmod: 2023-03-16T12:30:28+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:42.857991Z'
+publishDate: '2023-03-16T04:30:27.854848Z'
 publication_types:
 - '1'
 abstract: As a pivotal component in multi-objective evolutionary algorithms (MOEAs),

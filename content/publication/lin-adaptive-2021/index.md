@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-04-01'
-lastmod: 2021-08-27T07:59:35+08:00
+lastmod: 2023-03-16T12:30:26+08:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:30.775155Z'
+publishDate: '2023-03-16T04:30:26.550469Z'
 publication_types:
 - '2'
 abstract: Various works have been proposed to solve expensive multiobjective optimization
@@ -49,6 +49,8 @@ abstract: Various works have been proposed to solve expensive multiobjective opt
   results have demonstrated the promising performance and computational efficiency
   of the proposed algorithm in high-dimensional expensive multiobjective optimization.
 publication: '*Complex & Intelligent Systems*'
-url_pdf: https://doi.org/10.1007/s40747-021-00362-5
 doi: 10.1007/s40747-021-00362-5
+links:
+- name: URL
+  url: https://doi.org/10.1007/s40747-021-00362-5
 ---

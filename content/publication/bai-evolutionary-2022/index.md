@@ -11,22 +11,22 @@ authors:
 - Kay Chen Tan
 - Yaochu Jin
 tags:
+- Sociology
+- Optimization
+- Statistics
+- Heuristic algorithms
+- multipopulation
+- Resource management
+- variable grouping
 - Computational resources allocation
 - cooperative coevolution (CC)
 - dynamic optimization
 - Dynamic scheduling
-- Heuristic algorithms
 - large-scale optimization problems
-- multipopulation
-- Optimization
-- Resource management
-- Sociology
-- Statistics
-- variable grouping
 - Vehicle dynamics
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-25T12:18:37+08:00
+lastmod: 2023-03-16T12:30:49+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-25T04:18:24.647616Z'
+publishDate: '2023-03-16T04:30:49.182931Z'
 publication_types:
 - '2'
 abstract: Variable grouping provides an efficient approach to large-scale optimization,

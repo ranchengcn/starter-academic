@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-06-01'
-lastmod: 2022-07-25T12:18:38+08:00
+lastmod: 2023-03-16T12:30:50+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-25T04:18:38.337177Z'
+publishDate: '2023-03-16T04:30:50.145901Z'
 publication_types:
 - '1'
 abstract: Existing vision-language pre-training (VLP) methods primarily rely on paired

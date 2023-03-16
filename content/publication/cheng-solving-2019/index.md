@@ -12,20 +12,20 @@ authors:
 - Stefan Menzel
 - Xin Yao
 tags:
-- '"Optimization"'
-- '"Benchmark testing"'
-- '"Computer science"'
-- '"Linear programming"'
-- '"Generators"'
-- '"Aerodynamics"'
-- '"Cooperative coevolution (CC)"'
-- '"experience-based optimization"'
-- '"incremental optimization problem (IOP)"'
-- '"Signal generators"'
-- '"variable grouping"'
+- Benchmark testing
+- Optimization
+- Computer science
+- Linear programming
+- Aerodynamics
+- Cooperative coevolution (CC)
+- experience-based optimization
+- Generators
+- incremental optimization problem (IOP)
+- Signal generators
+- variable grouping
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:39+08:00
+lastmod: 2023-03-16T12:30:38+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:07.549056Z'
+publishDate: '2023-03-16T04:30:38.249719Z'
 publication_types:
 - '2'
 abstract: Engineering designs can involve multiple stages, where at each stage, the

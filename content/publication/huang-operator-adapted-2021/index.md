@@ -12,13 +12,13 @@ authors:
 - Ran Cheng
 - Xin Yao
 tags:
-- '"Multiobjective optimization"'
-- '"Adaptive operator selection"'
-- '"Large-scale optimization"'
-- '"Voltage transformer ratio error estimation"'
+- Multiobjective optimization
+- Large-scale optimization
+- Adaptive operator selection
+- Voltage transformer ratio error estimation
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:33+08:00
+lastmod: 2023-03-16T12:30:43+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:50.842531Z'
+publishDate: '2023-03-16T04:30:43.142007Z'
 publication_types:
 - '1'
 abstract: Large-scale multiobjective optimization problems (LSMOPs) exist widely in

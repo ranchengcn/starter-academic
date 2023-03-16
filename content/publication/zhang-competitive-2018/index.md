@@ -12,13 +12,13 @@ authors:
 - Jianfeng Qiu
 - Yaochu Jin
 tags:
-- '"Competitive swarm optimizer"'
-- '"Evolutionary algorithm"'
-- '"Multi-objective optimization"'
-- '"Particle swarm optimization"'
+- Evolutionary algorithm
+- Multi-objective optimization
+- Competitive swarm optimizer
+- Particle swarm optimization
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:40+08:00
+lastmod: 2023-03-16T12:30:28+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:11.902178Z'
+publishDate: '2023-03-16T04:30:28.191408Z'
 publication_types:
 - '2'
 abstract: In the past two decades, multi-objective optimization has attracted increasing
@@ -55,6 +55,8 @@ abstract: In the past two decades, multi-objective optimization has attracted in
   demonstrate the promising performance of the proposed algorithm in terms of both
   optimization quality and convergence speed.
 publication: '*Information Sciences*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025517310344
 doi: 10.1016/j.ins.2017.10.037
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0020025517310344
 ---

@@ -12,12 +12,12 @@ authors:
 - Ran Cheng
 - Xingyi Zhang
 tags:
-- '"Constrained multi-objective optimization"'
-- '"Constraint-handling priority"'
-- '"Evolutionary algorithm"'
+- Evolutionary algorithm
+- Constrained multi-objective optimization
+- Constraint-handling priority
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:36+08:00
+lastmod: 2023-03-16T12:30:27+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:57.394055Z'
+publishDate: '2023-03-16T04:30:27.527809Z'
 publication_types:
 - '2'
 abstract: Constrained multi-objective optimization problems (CMOPs) are difficult
@@ -57,6 +57,8 @@ abstract: Constrained multi-objective optimization problems (CMOPs) are difficul
   multi-objective evolutionary algorithms when dealing with CMOPs, especially for
   problems with complex constraints.
 publication: '*Information Sciences*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025521000566
 doi: 10.1016/j.ins.2021.01.029
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0020025521000566
 ---

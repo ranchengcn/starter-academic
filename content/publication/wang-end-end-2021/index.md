@@ -12,13 +12,10 @@ authors:
 - Ran Cheng
 - Ping Luo
 tags:
-- '"Computer Science - Computer Vision and Pattern Recognition"'
-- '"68T45"'
-- '"I.4.9"'
-- '"I.5.4"'
+- Computer Science - Computer Vision and Pattern Recognition
 categories: []
-date: '2021-08-01'
-lastmod: 2021-08-27T07:59:45+08:00
+date: '2021-11-01'
+lastmod: 2023-03-16T12:30:47+08:00
 featured: false
 draft: false
 
@@ -36,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:26.415310Z'
+publishDate: '2023-03-16T04:30:47.298219Z'
 publication_types:
 - '2'
 abstract: 'Dense video captioning aims to generate multiple associated captions with
@@ -59,5 +56,7 @@ abstract: 'Dense video captioning aims to generate multiple associated captions 
   captioning results, surpassing the state-of-the-art two-stage methods when its localization
   accuracy is on par with them. Code is available at https://github.com/ttengwang/PDVC.'
 publication: '*arXiv:2108.07781 [cs]*'
-url_pdf: http://arxiv.org/abs/2108.07781
+links:
+- name: URL
+  url: http://arxiv.org/abs/2108.07781
 ---

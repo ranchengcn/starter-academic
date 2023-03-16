@@ -12,13 +12,13 @@ authors:
 - Ran Cheng
 - Xin Yao
 tags:
-- Adaptive operator selection
-- Large-scale optimization
 - Multiobjective optimization
+- Large-scale optimization
+- Adaptive operator selection
 - Voltage transformer ratio error estimation
 categories: []
 date: '2022-06-01'
-lastmod: 2022-07-25T12:18:38+08:00
+lastmod: 2023-03-16T12:30:50+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-25T04:18:38.049112Z'
+publishDate: '2023-03-16T04:30:49.822543Z'
 publication_types:
 - '2'
 abstract: As a typical large-scale multiobjective optimization problem extracted from

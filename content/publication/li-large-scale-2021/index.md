@@ -10,21 +10,21 @@ authors:
 - Ran Cheng
 - Linqiang Pan
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Multiobjective optimization"'
-- '"Benchmark testing"'
-- '"Linear programming"'
-- '"large-scale optimization"'
-- '"problem reformulation"'
-- '"Complexity theory"'
-- '"offspring generation"'
-- '"problem decomposition"'
+- Benchmark testing
+- Evolutionary computation
+- Sociology
+- Multiobjective optimization
+- Optimization
+- Statistics
+- Complexity theory
+- large-scale optimization
+- Linear programming
+- offspring generation
+- problem decomposition
+- problem reformulation
 categories: []
 date: '2021-06-01'
-lastmod: 2021-08-27T07:59:34+08:00
+lastmod: 2023-03-16T12:30:32+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:27.869536Z'
+publishDate: '2023-03-16T04:30:32.366593Z'
 publication_types:
 - '1'
 abstract: Large-scale multiobjective optimization problems (LSMOPs) are challenging

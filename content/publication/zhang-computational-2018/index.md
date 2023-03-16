@@ -12,13 +12,13 @@ authors:
 - Sebastian C. Dixon
 - Yao Lu
 tags:
-- '"artificial neural networks"'
-- '"computational intelligence"'
-- '"evolutionary computation"'
-- '"superhydrophobic behavior"'
+- artificial neural networks
+- computational intelligence
+- evolutionary computation
+- superhydrophobic behavior
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:40+08:00
+lastmod: 2023-03-16T12:30:37+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:10.455971Z'
+publishDate: '2023-03-16T04:30:37.284203Z'
 publication_types:
 - '2'
 abstract: In recent years, state-of-the-art computational modeling of physical and
@@ -56,6 +56,8 @@ abstract: In recent years, state-of-the-art computational modeling of physical a
   This new approach to materials modeling has great potential to be applied more generally
   to aid design, fabrication, and optimization for myriad functional materials.
 publication: '*Advanced Science*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.201700520
 doi: 10.1002/advs.201700520
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.201700520
 ---

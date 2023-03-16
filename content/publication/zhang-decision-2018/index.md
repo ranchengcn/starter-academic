@@ -11,22 +11,22 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Computer science"'
-- '"Sorting"'
-- '"many-objective optimization"'
-- '"large-scale optimization"'
-- '"Clustering"'
-- '"Clustering methods"'
-- '"evolutionary multiobjective optimization"'
-- '"nondominated sorting"'
-- '"Scalability"'
-- '"tree"'
+- Evolutionary computation
+- Optimization
+- Convergence
+- Scalability
+- Computer science
+- Sorting
+- large-scale optimization
+- evolutionary multiobjective optimization
+- nondominated sorting
+- many-objective optimization
+- Clustering
+- Clustering methods
+- tree
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:39+08:00
+lastmod: 2023-03-16T12:30:37+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:09.730593Z'
+publishDate: '2023-03-16T04:30:37.608770Z'
 publication_types:
 - '2'
 abstract: 'The current literature of evolutionary many-objective optimization is merely

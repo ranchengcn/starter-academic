@@ -11,18 +11,18 @@ authors:
 - Ran Cheng
 - Xingyi Zhang
 tags:
-- '"Evolutionary computation"'
-- '"Sociology"'
-- '"Pareto optimization"'
-- '"multiobjective optimization"'
-- '"Current measurement"'
-- '"Diversity preservation"'
-- '"evolutionary algorithm"'
-- '"Pareto front (PF)"'
-- '"Portfolios"'
+- Evolutionary computation
+- Pareto optimization
+- Sociology
+- evolutionary algorithm
+- multiobjective optimization
+- Current measurement
+- Diversity preservation
+- Pareto front (PF)
+- Portfolios
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:38+08:00
+lastmod: 2023-03-16T12:30:39+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:04.647335Z'
+publishDate: '2023-03-16T04:30:38.902740Z'
 publication_types:
 - '2'
 abstract: Diversity preservation is a crucial technique in multiobjective evolutionary

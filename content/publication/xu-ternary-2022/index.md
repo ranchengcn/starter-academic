@@ -11,9 +11,10 @@ authors:
 - Wangli He
 - Ran Cheng
 tags:
+- Computational modeling
+- Training
 - Collaborative work
 - Communication efficiency
-- Computational modeling
 - Data models
 - deep learning
 - Distributed databases
@@ -21,10 +22,9 @@ tags:
 - Quantization (signal)
 - Servers
 - ternary coding
-- Training
 categories: []
 date: '2022-03-01'
-lastmod: 2022-03-02T20:51:32+08:00
+lastmod: 2023-03-16T12:30:48+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-02T12:51:31.539100Z'
+publishDate: '2023-03-16T04:30:48.235477Z'
 publication_types:
 - '2'
 abstract: Learning over massive data stored in different locations is essential in

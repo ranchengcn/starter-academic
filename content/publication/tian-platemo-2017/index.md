@@ -11,15 +11,15 @@ authors:
 - Xingyi Zhang
 - Yaochu Jin
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sorting"'
-- '"Genetic algorithms"'
-- '"Algorithm design and analysis"'
-- '"MATLAB"'
+- Evolutionary computation
+- Optimization
+- Genetic algorithms
+- Sorting
+- Algorithm design and analysis
+- MATLAB
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-27T07:59:41+08:00
+lastmod: 2023-03-16T12:30:36+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:14.081360Z'
+publishDate: '2023-03-16T04:30:36.577743Z'
 publication_types:
 - '2'
 abstract: 'Over the last three decades, a large number of evolutionary algorithms

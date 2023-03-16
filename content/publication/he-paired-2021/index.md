@@ -12,20 +12,20 @@ authors:
 - Kay Chen Tan
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Pareto optimization"'
-- '"many-objective optimization"'
-- '"large-scale optimization"'
-- '"multiobjective optimization"'
-- '"Signal processing algorithms"'
-- '"Constraint handling"'
-- '"evolutionary algorithm (EA)"'
+- Pareto optimization
+- Sociology
+- Constraint handling
+- Optimization
+- Statistics
+- Convergence
+- large-scale optimization
+- multiobjective optimization
+- many-objective optimization
+- evolutionary algorithm (EA)
+- Signal processing algorithms
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:34+08:00
+lastmod: 2023-03-16T12:30:41+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:54.480791Z'
+publishDate: '2023-03-16T04:30:41.187806Z'
 publication_types:
 - '2'
 abstract: Constrained multiobjective optimization problems (CMOPs) widely exist in

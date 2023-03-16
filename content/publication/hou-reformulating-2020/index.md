@@ -10,13 +10,13 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
-- '"Constraint handling"'
-- '"Many-objective optimization"'
-- '"Multiobjective optimization"'
-- '"Preference articulation"'
+- Many-objective optimization
+- Constraint handling
+- Multiobjective optimization
+- Preference articulation
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-27T07:59:37+08:00
+lastmod: 2023-03-16T12:30:24+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:03.204541Z'
+publishDate: '2023-03-16T04:30:24.624571Z'
 publication_types:
 - '2'
 abstract: Despite that the reference point based preference articulation plays a vital
@@ -48,6 +48,8 @@ abstract: Despite that the reference point based preference articulation plays a
   Extensive experiments on a variety of benchmark problems are conducted to demonstrate
   the effectiveness of our proposed method.
 publication: '*Information Sciences*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025520305223
 doi: 10.1016/j.ins.2020.05.103
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0020025520305223
 ---

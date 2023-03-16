@@ -11,19 +11,19 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Sorting"'
-- '"Time complexity"'
-- '"evolutionary multiobjective optimization"'
-- '"nondominated sorting"'
-- '"Algorithm design and analysis"'
-- '"Computational complexity"'
-- '"Pareto-optimality"'
+- Sociology
+- Optimization
+- Statistics
+- Sorting
+- Time complexity
+- Algorithm design and analysis
+- Computational complexity
+- evolutionary multiobjective optimization
+- nondominated sorting
+- Pareto-optimality
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-27T07:59:43+08:00
+lastmod: 2023-03-16T12:30:35+08:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:21.334525Z'
+publishDate: '2023-03-16T04:30:35.578477Z'
 publication_types:
 - '2'
 abstract: Evolutionary algorithms have been shown to be powerful for solving multiobjective

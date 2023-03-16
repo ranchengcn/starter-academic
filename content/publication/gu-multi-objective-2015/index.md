@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-27T07:59:43+08:00
+lastmod: 2023-03-16T12:30:31+08:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:22.059807Z'
+publishDate: '2023-03-16T04:30:31.421783Z'
 publication_types:
 - '2'
 abstract: 'Ensemble methods that combine a committee of machine-learning models, each
@@ -43,8 +43,10 @@ abstract: 'Ensemble methods that combine a committee of machine-learning models,
   selection, and integration techniques. Challenges and potential applications of
   multi-objective ensemble generation are also discussed. WIREs Data Mining Knowl
   Discov 2015, 5:234–245. doi: 10.1002/widm.1158 This article is categorized under:
-  Algorithmic Development textgreater Ensemble Methods'
+  Algorithmic Development textbackslashtextgreater Ensemble Methods'
 publication: '*WIREs Data Mining and Knowledge Discovery*'
-url_pdf: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1158
 doi: 10.1002/widm.1158
+links:
+- name: URL
+  url: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1158
 ---

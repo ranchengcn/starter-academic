@@ -14,15 +14,15 @@ authors:
 - Chen Zhai
 - Miao Zhang
 tags:
-- '"Conditional Variational AutoEncoder (CVAE)"'
-- '"Deep learning"'
-- '"Generative Adversarial Networks (GAN)"'
-- '"Generative models"'
-- '"Inverse design"'
-- '"Supercritical airfoil"'
+- Deep learning
+- Conditional Variational AutoEncoder (CVAE)
+- Generative Adversarial Networks (GAN)
+- Generative models
+- Inverse design
+- Supercritical airfoil
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:35+08:00
+lastmod: 2023-03-16T12:30:26+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:55.934545Z'
+publishDate: '2023-03-16T04:30:26.238421Z'
 publication_types:
 - '2'
 abstract: Inverse design has long been an efficient and powerful design tool in the
@@ -60,6 +60,8 @@ abstract: Inverse design has long been an efficient and powerful design tool in 
   is proposed to quantify small oscillations in the airfoil surface, proving the authenticity
   and accuracy of the generated airfoil shapes.
 publication: '*Chinese Journal of Aeronautics*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1000936121000662
 doi: 10.1016/j.cja.2021.03.006
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1000936121000662
 ---

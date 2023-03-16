@@ -1,15 +1,54 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Evolutionary Multiobjective Optimization-Based Multimodal Optimization: Fitness
   Landscape Approximation and Peak Detection'
 subtitle: ''
-publication_types:
-- '2'
+summary: ''
 authors:
 - Ran Cheng
 - Miqing Li
 - Ke Li
 - Xin Yao
-publication: '*IEEE Transactions on Evolutionary Computation*'
+tags:
+- Decision making
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Linear programming
+- multiobjective optimization
+- Approximation algorithms
+- Decision-making
+- fitness landscape approximation
+- multimodal optimization (MMO)
+- multiobjectivization
+- niching
+- peak detection
+- preference
+categories: []
+date: '2018-01-01'
+lastmod: 2023-03-16T12:30:38+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-03-16T04:30:37.924004Z'
+publication_types:
+- '2'
 abstract: Recently, by taking advantage of evolutionary multiobjective optimization
   techniques in diversity preservation, the means of multiobjectivization has attracted
   increasing interest in the studies of multimodal optimization (MMO). While most
@@ -27,32 +66,6 @@ abstract: Recently, by taking advantage of evolutionary multiobjective optimizat
   state-of-the-art algorithms for MMO. Experimental results demonstrate that the proposed
   algorithm not only shows promising performance in benchmark comparisons, but also
   has good potential in assisting preference-based decision-making in MMO.
-draft: false
-lastmod: 2021-08-27T07:59:39+08:00
+publication: '*IEEE Transactions on Evolutionary Computation*'
 doi: 10.1109/TEVC.2017.2744328
-featured: false
-tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Decision making"'
-- '"Approximation algorithms"'
-- '"Linear programming"'
-- '"multiobjective optimization"'
-- '"Decision-making"'
-- '"fitness landscape approximation"'
-- '"multimodal optimization (MMO)"'
-- '"multiobjectivization"'
-- '"niching"'
-- '"peak detection"'
-- '"preference"'
-categories: []
-projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-date: '2018-01-01'
-publishDate: '2021-11-23T11:21:08.275895Z'
 ---

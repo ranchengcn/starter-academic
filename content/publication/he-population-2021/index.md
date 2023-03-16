@@ -8,13 +8,13 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
-- '"Multiobjective optimization"'
-- '"Large-scale optimization"'
-- '"Population size"'
-- '"Transformer ratio error estimation"'
+- Multiobjective optimization
+- Large-scale optimization
+- Population size
+- Transformer ratio error estimation
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:34+08:00
+lastmod: 2023-03-16T12:30:42+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:52.300515Z'
+publishDate: '2023-03-16T04:30:41.853596Z'
 publication_types:
 - '1'
 abstract: Large-scale multiobjective optimization problems (LSMOPs) are emerging and

@@ -10,13 +10,13 @@ authors:
 - Shihua Huang
 - Ran Cheng
 tags:
-- '"Evolutionary algorithm"'
-- '"Image classification"'
-- '"Inheritable crossover"'
-- '"Neural architecture search"'
+- Evolutionary algorithm
+- Image classification
+- Inheritable crossover
+- Neural architecture search
 categories: []
 date: '2021-07-01'
-lastmod: 2021-08-27T08:43:05+08:00
+lastmod: 2023-03-16T12:30:26+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:28.599803Z'
+publishDate: '2023-03-16T04:30:25.926120Z'
 publication_types:
 - '2'
 abstract: Deep neural networks are widely used in the domain of image classification,
@@ -54,6 +54,8 @@ abstract: Deep neural networks are widely used in the domain of image classifica
   the CIFAR-10 and CIFAR-100 tasks show that our proposed evolutionary NAS method
   has achieved state-of-the-art results.
 publication: '*Swarm and Evolutionary Computation*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2210650221000559
 doi: 10.1016/j.swevo.2021.100894
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2210650221000559
 ---

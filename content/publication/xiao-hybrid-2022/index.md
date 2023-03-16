@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Hybrid attention-based transformer block model for distant supervision relation
-  extraction
+title: Hybrid Attention-based Transformer Block Model for Distant Supervision Relation
+  Extraction
 subtitle: ''
 summary: ''
 authors:
@@ -11,12 +11,12 @@ authors:
 - Ran Cheng
 - Kuangrong Hao
 tags:
-- '"Distant supervision relation extraction (DSRE)"'
-- '"Sentence-level attention"'
-- '"Transformer block"'
+- Distant supervision relation extraction (DSRE)
+- Sentence-level attention
+- Transformer block
 categories: []
 date: '2022-01-01'
-lastmod: 2021-11-23T19:21:34+08:00
+lastmod: 2023-03-16T12:30:46+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:33.676930Z'
+publishDate: '2023-03-16T04:30:46.355093Z'
 publication_types:
 - '2'
 abstract: With an exponential explosive growth of various digital text information,
@@ -55,6 +55,8 @@ abstract: With an exponential explosive growth of various digital text informati
   algorithms on the adopted dataset, which verifies the effectiveness of our model
   on the DSRE task.
 publication: '*Neurocomputing*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0925231221015174
 doi: 10.1016/j.neucom.2021.10.037
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0925231221015174
 ---

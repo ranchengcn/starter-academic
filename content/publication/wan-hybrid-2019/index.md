@@ -13,19 +13,19 @@ authors:
 - Ran Cheng
 - Hisao Ishibuchi
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Expensive many-objective optimization"'
-- '"Gaussian processes"'
-- '"Hybrid optimization"'
-- '"Iron"'
-- '"Linear programming"'
-- '"Surrogate-assisted evolutionary optimization"'
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Linear programming
+- Gaussian processes
+- Expensive many-objective optimization
+- Hybrid optimization
+- Iron
+- Surrogate-assisted evolutionary optimization
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:32+08:00
+lastmod: 2023-03-16T12:30:44+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:47.936246Z'
+publishDate: '2023-03-16T04:30:43.777113Z'
 publication_types:
 - '1'
 abstract: Many real-world optimization problems are challenging because the evaluation

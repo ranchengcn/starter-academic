@@ -11,20 +11,20 @@ authors:
 - Cheng He
 - Yaochu Jin
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Computer science"'
-- '"Evolutionary algorithm"'
-- '"Shape"'
-- '"Training"'
-- '"fitness function"'
-- '"front modeling"'
-- '"multiobjective and many-objective optimization"'
+- Evolutionary algorithm
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Computer science
+- fitness function
+- front modeling
+- multiobjective and many-objective optimization
+- Shape
+- Training
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-27T07:59:43+08:00
+lastmod: 2023-03-16T12:30:33+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:22.782755Z'
+publishDate: '2023-03-16T04:30:33.640704Z'
 publication_types:
 - '2'
 abstract: In evolutionary multiobjective optimization, the Pareto front (PF) is approximated

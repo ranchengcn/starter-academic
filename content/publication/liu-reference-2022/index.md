@@ -12,21 +12,21 @@ authors:
 - Martin Heiderich
 - Tobias Rodemann
 tags:
+- Evolutionary computation
+- Optimization
+- Convergence
+- Search problems
+- Linear programming
 - Adaptation models
 - Computational modeling
-- Convergence
-- Evolutionary computation
+- reference vector
 - Evolutionary many-objective optimization
 - Gaussian process (GP)
 - independent and identically distributed (IID)
-- Linear programming
-- Optimization
-- reference vector
-- Search problems
 - surrogate-assisted evolutionary algorithms (SAEAs)
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-25T12:18:38+08:00
+lastmod: 2023-03-16T12:30:49+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-25T04:18:37.740092Z'
+publishDate: '2023-03-16T04:30:49.507861Z'
 publication_types:
 - '2'
 abstract: Acquisition functions for surrogate-assisted many-objective optimization

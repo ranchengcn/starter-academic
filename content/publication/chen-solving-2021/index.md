@@ -10,17 +10,17 @@ authors:
 - Witold Pedrycz
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Sociology"'
-- '"Pareto optimization"'
-- '"many-objective optimization"'
-- '"Evolutionary algorithm"'
-- '"multistage optimization"'
-- '"Shape"'
+- Evolutionary algorithm
+- Evolutionary computation
+- Pareto optimization
+- Sociology
+- Convergence
+- Shape
+- many-objective optimization
+- multistage optimization
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:35+08:00
+lastmod: 2023-03-16T12:30:41+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:55.205050Z'
+publishDate: '2023-03-16T04:30:40.872870Z'
 publication_types:
 - '2'
 abstract: With the increase in the number of optimization objectives, balancing the

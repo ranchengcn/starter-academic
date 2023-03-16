@@ -12,13 +12,13 @@ authors:
 - Jing Wang
 - Miao Zhang
 tags:
-- Efficient performance estimation
 - Evolutionary algorithm
 - Multi-objective optimization
 - Neural architecture search
+- Efficient performance estimation
 categories: []
 date: '2021-12-01'
-lastmod: 2022-07-25T12:18:38+08:00
+lastmod: 2023-03-16T12:30:50+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-25T04:18:38.615479Z'
+publishDate: '2023-03-16T04:30:50.471551Z'
 publication_types:
 - '2'
 abstract: For the goal of automated design of high-performance deep convolutional

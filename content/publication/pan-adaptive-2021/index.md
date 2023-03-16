@@ -11,14 +11,14 @@ authors:
 - Cheng He
 - Ran Cheng
 tags:
-- '"Crossover operator"'
-- '"Evolutionary algorithm"'
-- '"Multi-objective optimization"'
-- '"Rotated problem"'
-- '"Variable linkage"'
+- Crossover operator
+- Evolutionary algorithm
+- Multi-objective optimization
+- Rotated problem
+- Variable linkage
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:37+08:00
+lastmod: 2023-03-16T12:30:23+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:01.753330Z'
+publishDate: '2023-03-16T04:30:22.913793Z'
 publication_types:
 - '2'
 abstract: Crossover is a crucial operation for generating promising offspring solutions
@@ -55,6 +55,8 @@ abstract: Crossover is a crucial operation for generating promising offspring so
   in promoting the performance of conventional MOEAs for handling rotated multi-objective
   optimization problems.
 publication: '*Swarm and Evolutionary Computation*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2210650220304120
 doi: 10.1016/j.swevo.2020.100759
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2210650220304120
 ---

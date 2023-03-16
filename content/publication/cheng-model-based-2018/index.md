@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:40+08:00
+lastmod: 2023-03-16T12:30:25+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:12.629385Z'
+publishDate: '2023-03-16T04:30:25.603852Z'
 publication_types:
 - '2'
 abstract: The evolutionary algorithms (EAs) are a family of nature-inspired algorithms
@@ -47,6 +47,8 @@ abstract: The evolutionary algorithms (EAs) are a family of nature-inspired algo
   expensive problems, models can be used as surrogates of the fitness functions. Based
   on the review, some further discussions are also given.
 publication: '*Complex & Intelligent Systems*'
-url_pdf: https://doi.org/10.1007/s40747-018-0080-1
 doi: 10.1007/s40747-018-0080-1
+links:
+- name: URL
+  url: https://doi.org/10.1007/s40747-018-0080-1
 ---

@@ -12,17 +12,17 @@ authors:
 - Yansen Su
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Pareto optimization"'
-- '"many-objective optimization"'
-- '"evolutionary algorithm"'
-- '"diversity"'
-- '"Genetic algorithms"'
-- '"Pareto dominance"'
+- Evolutionary computation
+- Pareto optimization
+- Convergence
+- Genetic algorithms
+- evolutionary algorithm
+- diversity
+- many-objective optimization
+- Pareto dominance
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:41+08:00
+lastmod: 2023-03-16T12:30:37+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:13.358133Z'
+publishDate: '2023-03-16T04:30:36.933176Z'
 publication_types:
 - '2'
 abstract: Both convergence and diversity are crucial to evolutionary many-objective

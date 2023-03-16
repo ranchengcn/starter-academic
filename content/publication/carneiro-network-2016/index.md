@@ -10,16 +10,16 @@ authors:
 - Ran Cheng
 - Yaochu Jin
 tags:
-- '"Optimization"'
-- '"Particle swarm optimization"'
-- '"Biological system modeling"'
-- '"Complex networks"'
-- '"Mathematical model"'
-- '"Supervised learning"'
-- '"Training data"'
+- Complex networks
+- Optimization
+- Particle swarm optimization
+- Biological system modeling
+- Mathematical model
+- Supervised learning
+- Training data
 categories: []
 date: '2016-01-01'
-lastmod: 2021-08-27T07:59:30+08:00
+lastmod: 2023-03-16T12:30:31+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:40.678839Z'
+publishDate: '2023-03-16T04:30:30.799377Z'
 publication_types:
 - '1'
 abstract: While most part of the complex network models are described in function

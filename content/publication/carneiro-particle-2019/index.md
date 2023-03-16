@@ -10,15 +10,15 @@ authors:
 - Liang Zhao
 - Yaochu Jin
 tags:
-- '"Complex networks"'
-- '"Data classification"'
-- '"Graph optimization"'
-- '"Machine learning"'
-- '"Network structural optimization"'
-- '"Particle swarm"'
+- Complex networks
+- Data classification
+- Graph optimization
+- Machine learning
+- Network structural optimization
+- Particle swarm
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:39+08:00
+lastmod: 2023-03-16T12:30:25+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:06.823135Z'
+publishDate: '2023-03-16T04:30:24.973331Z'
 publication_types:
 - '2'
 abstract: 'Complex networks provide a powerful tool for data representation due to
@@ -58,6 +58,8 @@ abstract: 'Complex networks provide a powerful tool for data representation due 
   reduction and data clustering, can benefit from the proposed structural optimization
   method.'
 publication: '*Neural Networks*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0893608018303344
 doi: 10.1016/j.neunet.2018.12.003
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0893608018303344
 ---

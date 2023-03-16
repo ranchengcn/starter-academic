@@ -10,23 +10,23 @@ authors:
 - Yaochu Jin
 - Xin Yao
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Approximation algorithms"'
-- '"classification"'
-- '"Computational modeling"'
-- '"Expensive problem"'
-- '"fitness approximation"'
-- '"Kriging"'
-- '"many-objective optimization"'
-- '"model fusion"'
-- '"surrogate-assisted optimization"'
-- '"Uncertainty"'
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Computational modeling
+- many-objective optimization
+- Approximation algorithms
+- classification
+- Expensive problem
+- fitness approximation
+- Kriging
+- model fusion
+- surrogate-assisted optimization
+- Uncertainty
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:31+08:00
+lastmod: 2023-03-16T12:30:46+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:45.755980Z'
+publishDate: '2023-03-16T04:30:45.702329Z'
 publication_types:
 - '1'
 abstract: Surrogate-assisted evolutionary algorithms have played an important role

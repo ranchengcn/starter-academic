@@ -12,15 +12,15 @@ authors:
 - Changxin Liu
 - Tianyou Chai
 tags:
-- '"beneficiation process"'
-- '"data-driven optimization"'
-- '"Gaussian process model"'
-- '"multi-objective optimization"'
-- '"operational optimization"'
-- '"surrogate-assisted"'
+- beneficiation process
+- data-driven optimization
+- Gaussian process model
+- multi-objective optimization
+- operational optimization
+- surrogate-assisted
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-27T07:59:31+08:00
+lastmod: 2023-03-16T12:30:45+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:43.581902Z'
+publishDate: '2023-03-16T04:30:44.754458Z'
 publication_types:
 - '2'
 abstract: Most optimization algorithms suppose that there exist explicit evaluation
@@ -59,6 +59,8 @@ abstract: Most optimization algorithms suppose that there exist explicit evaluat
   the proposed algorithm is also successfully applied to the optimization of complex
   beneficiation operational process.
 publication: '*IFAC-PapersOnLine*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2405896317334882
 doi: 10.1016/j.ifacol.2017.08.2561
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2405896317334882
 ---

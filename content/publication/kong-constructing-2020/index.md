@@ -16,13 +16,13 @@ authors:
 - Qi Guo
 - Ran Cheng
 tags:
-- '"Acromegaly"'
-- '"Deep learning"'
-- '"Facial photographs"'
-- '"Severity-classification model"'
+- Acromegaly
+- Deep learning
+- Facial photographs
+- Severity-classification model
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-27T07:59:37+08:00
+lastmod: 2023-03-16T12:30:24+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:30.050347Z'
+publishDate: '2023-03-16T04:30:23.929769Z'
 publication_types:
 - '2'
 abstract: Due to acromegaly’s insidious onset and slow progression, its diagnosis
@@ -49,11 +49,13 @@ abstract: Due to acromegaly’s insidious onset and slow progression, its diagno
   developed a new automatic diagnosis and severity-classification model for acromegaly
   using facial photographs by deep learning on the data of 2148 photographs at different
   severity levels. Each photograph was given a score reflecting its severity (range
-  1~3). Our developed model achieved a prediction accuracy of 90.7% on the internal
-  test dataset and outperformed the performance of ten junior internal medicine physicians
-  (89.0%). The prospect of applying this model to real clinical practices is promising
-  due to its potential health economic benefits.
+  1textasciitilde3). Our developed model achieved a prediction accuracy of 90.7% on
+  the internal test dataset and outperformed the performance of ten junior internal
+  medicine physicians (89.0%). The prospect of applying this model to real clinical
+  practices is promising due to its potential health economic benefits.
 publication: '*Journal of Hematology & Oncology*'
-url_pdf: https://doi.org/10.1186/s13045-020-00925-y
 doi: 10.1186/s13045-020-00925-y
+links:
+- name: URL
+  url: https://doi.org/10.1186/s13045-020-00925-y
 ---

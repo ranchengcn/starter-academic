@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:39+08:00
+lastmod: 2023-03-16T12:30:23+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:09.001559Z'
+publishDate: '2023-03-16T04:30:23.599952Z'
 publication_types:
 - '2'
 abstract: When solving many machine learning problems such as classification, there
@@ -54,6 +54,8 @@ abstract: When solving many machine learning problems such as classification, th
   CSO-based feature selection algorithm not only selects a much smaller number of
   features, but result in better classification performance as well.
 publication: '*Soft Computing*'
-url_pdf: https://doi.org/10.1007/s00500-016-2385-6
 doi: 10.1007/s00500-016-2385-6
+links:
+- name: URL
+  url: https://doi.org/10.1007/s00500-016-2385-6
 ---

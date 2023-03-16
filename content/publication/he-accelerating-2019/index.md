@@ -13,19 +13,19 @@ authors:
 - Yaochu Jin
 - Xin Yao
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Pareto optimization"'
-- '"large-scale optimization"'
-- '"multiobjective optimization"'
-- '"problem reformulation"'
-- '"Acceleration"'
-- '"Evolutionary algorithms"'
-- '"IEEE Fellows"'
-- '"Signal processing algorithms"'
+- Evolutionary computation
+- Pareto optimization
+- Convergence
+- large-scale optimization
+- problem reformulation
+- multiobjective optimization
+- Signal processing algorithms
+- Evolutionary algorithms
+- Acceleration
+- IEEE Fellows
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-27T07:59:34+08:00
+lastmod: 2023-03-16T12:30:41+08:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:53.028184Z'
+publishDate: '2023-03-16T04:30:41.525008Z'
 publication_types:
 - '2'
 abstract: In this paper, we propose a framework to accelerate the computational efficiency

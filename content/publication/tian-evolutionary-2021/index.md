@@ -10,12 +10,15 @@ authors:
 - Xingyi Zhang
 - Ran Cheng
 - Cheng He
-- Kay Tan
+- Kay Chen Tan
 - Yaochu Jin
-tags: []
+tags:
+- Multi-objective optimization
+- large-scale optimization
+- evolutionary computation
 categories: []
-date: '2021-06-01'
-lastmod: 2021-08-27T09:42:23+08:00
+date: '2021-10-01'
+lastmod: 2023-03-16T12:30:48+08:00
 featured: false
 draft: false
 
@@ -33,20 +36,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:32.951889Z'
+publishDate: '2023-03-16T04:30:47.923760Z'
 publication_types:
 - '2'
 abstract: Multi-objective evolutionary algorithms (MOEAs) have shown promising performance
   in solving various optimization problems, but their performance may deteriorate
   drastically when tackling problems containing a large number of decision variables.
-  In recent years, a large amount of efforts have been devoted to addressing the challenges
-  brought by large-scale multi-objective optimization problems (LSMOPs). This article
-  presents a comprehensive survey of stat-of-the-art MOEAs for solving LSMOPs. We
-  start with a categorization of these MOEAs into decision variable grouping based,
-  decision space reduction based, and novel search strategy based MOEAs, discussing
+  In recent years, much effort been devoted to addressing the challenges brought by
+  large-scale multi-objective optimization problems. This article presents a comprehensive
+  survey of stat-of-the-art MOEAs for solving large-scale multi-objective optimization
+  problems. We start with a categorization of these MOEAs into decision variable grouping
+  based, decision space reduction based, and novel search strategy based MOEAs, discussing
   their strengths and weaknesses. Then, we review the benchmark problems for performance
   assessment and a few important and emerging applications of MOEAs for large-scale
-  multi-objective optimization. Lastly, we discuss some remaining challenges and future
+  multi-objective optimization. Last, we discuss some remaining challenges and future
   research directions of evolutionary large-scale multi-objective optimization.
 publication: '*ACM Computing Surveys*'
+doi: 10.1145/3470971
+links:
+- name: URL
+  url: https://doi.org/10.1145/3470971
 ---

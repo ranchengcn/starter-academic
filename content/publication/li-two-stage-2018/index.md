@@ -10,14 +10,14 @@ authors:
 - Jianchang Liu
 - Yaochu Jin
 tags:
-- '"Evolutionary algorithm"'
-- '"Many-objective optimization"'
-- '"R2 indicator"'
-- '"Reference vector"'
-- '"Two-stage selection strategy"'
+- Evolutionary algorithm
+- Many-objective optimization
+- R2 indicator
+- Reference vector
+- Two-stage selection strategy
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-27T07:59:40+08:00
+lastmod: 2023-03-16T12:30:27+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:11.178945Z'
+publishDate: '2023-03-16T04:30:26.876870Z'
 publication_types:
 - '2'
 abstract: R2 indicator based multi-objective evolutionary algorithms (R2-MOEAs) have
@@ -53,6 +53,8 @@ abstract: R2 indicator based multi-objective evolutionary algorithms (R2-MOEAs) 
   that the proposed algorithm has competitive performance in comparison with several
   tailored algorithms for many-objective optimization.
 publication: '*Applied Soft Computing*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1568494618301078
 doi: 10.1016/j.asoc.2018.02.048
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1568494618301078
 ---

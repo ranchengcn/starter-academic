@@ -13,22 +13,22 @@ authors:
 - Trung Thanh Nguyen
 - Xin Yao
 tags:
-- '"Optimization"'
-- '"Benchmark testing"'
-- '"Linear programming"'
-- '"Shape"'
-- '"Generators"'
-- '"Heuristic algorithms"'
-- '"dynamic optimization problems (DOPs)"'
-- '"Complexity theory"'
-- '"Dynamic environments"'
-- '"evolutionary dynamic optimization"'
-- '"moving peaks benchmark (MPB)"'
-- '"survey"'
-- '"tracking moving optimum (TMO)"'
+- Benchmark testing
+- Optimization
+- Complexity theory
+- Linear programming
+- Heuristic algorithms
+- Shape
+- Generators
+- Dynamic environments
+- dynamic optimization problems (DOPs)
+- evolutionary dynamic optimization
+- moving peaks benchmark (MPB)
+- survey
+- tracking moving optimum (TMO)
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-27T07:59:37+08:00
+lastmod: 2023-03-16T12:30:39+08:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:01.029058Z'
+publishDate: '2023-03-16T04:30:39.565372Z'
 publication_types:
 - '2'
 abstract: Dynamic changes are an important and inescapable aspect of many real-world

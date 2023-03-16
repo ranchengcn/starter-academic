@@ -10,10 +10,10 @@ authors:
 - Ran Cheng
 - Cheng He
 tags:
-- '"Computer Science - Computer Vision and Pattern Recognition"'
+- Computer Science - Computer Vision and Pattern Recognition
 categories: []
 date: '2021-08-01'
-lastmod: 2021-08-27T07:59:44+08:00
+lastmod: 2023-03-16T12:30:47+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:25.690824Z'
+publishDate: '2023-03-16T04:30:46.988018Z'
 publication_types:
 - '2'
 abstract: Recent advancements in deep neural networks have made remarkable leap-forwards
@@ -50,5 +50,7 @@ abstract: Recent advancements in deep neural networks have made remarkable leap-
   of 56.7% mIoU on ADE20K when integrated within Mask-Former. The code is available
   from https://github.com/EMI-Group/FaPN.
 publication: '*arXiv:2108.07058 [cs]*'
-url_pdf: http://arxiv.org/abs/2108.07058
+links:
+- name: URL
+  url: http://arxiv.org/abs/2108.07058
 ---

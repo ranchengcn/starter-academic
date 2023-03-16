@@ -9,16 +9,16 @@ authors:
 - Chaoli Sun
 - Yaochu Jin
 tags:
-- '"Convergence"'
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Search problems"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Vectors"'
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Convergence
+- Search problems
+- Vectors
 categories: []
 date: '2013-01-01'
-lastmod: 2021-08-27T07:59:29+08:00
+lastmod: 2023-03-16T12:30:30+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:24.907384Z'
+publishDate: '2023-03-16T04:30:29.851841Z'
 publication_types:
 - '1'
 abstract: Most evolutionary algorithms, including particle swarm optimization (PSO)

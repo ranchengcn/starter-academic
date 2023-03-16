@@ -12,14 +12,14 @@ authors:
 - Haifeng Li
 - Jian Weng
 tags:
-- '"CMA-ES"'
-- '"Evolutionary algorithm"'
-- '"Large-scale multi-objective optimization"'
-- '"Many-objective optimization"'
-- '"Scalable populations"'
+- Evolutionary algorithm
+- CMA-ES
+- Large-scale multi-objective optimization
+- Many-objective optimization
+- Scalable populations
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-27T07:59:38+08:00
+lastmod: 2023-03-16T12:30:24+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:05.371741Z'
+publishDate: '2023-03-16T04:30:24.285313Z'
 publication_types:
 - '2'
 abstract: Despite the recent development in evolutionary multi- and many-objective
@@ -52,6 +52,8 @@ abstract: Despite the recent development in evolutionary multi- and many-objecti
   algorithms on 36 test instances with 5–15 objectives and 500–1500 decision variables.
   The empirical results demonstrate the superiority of the proposed S3-CMA-ES.
 publication: '*Information Sciences*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025518308041
 doi: 10.1016/j.ins.2018.10.007
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0020025518308041
 ---

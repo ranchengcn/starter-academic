@@ -12,10 +12,10 @@ authors:
 - Ran Cheng
 - Haizhou Li
 tags:
-- '"Computer Science - Computation and Language"'
+- Computer Science - Computation and Language
 categories: []
 date: '2021-10-01'
-lastmod: 2021-11-23T19:21:35+08:00
+lastmod: 2023-03-16T12:30:46+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:21:34.398590Z'
+publishDate: '2023-03-16T04:30:46.665999Z'
 publication_types:
 - '2'
 abstract: As unlabeled data carry rich task-relevant information, they are proven
@@ -50,5 +50,7 @@ abstract: As unlabeled data carry rich task-relevant information, they are prove
   of our proposed approach under various settings, including augmentation techniques,
   model scale, and few-shot knowledge transfer across tasks.
 publication: '*arXiv:2110.01256 [cs]*'
-url_pdf: http://arxiv.org/abs/2110.01256
+links:
+- name: URL
+  url: http://arxiv.org/abs/2110.01256
 ---

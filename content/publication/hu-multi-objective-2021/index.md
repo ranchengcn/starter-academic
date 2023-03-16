@@ -10,13 +10,13 @@ authors:
 - Cheng He
 - Zhichao Lu
 tags:
-- '"Neural architecture search"'
-- '"Evolutionary algorithms"'
-- '"Multi-objective optimization"'
-- '"Performance estimation"'
+- Multi-objective optimization
+- Neural architecture search
+- Evolutionary algorithms
+- Performance estimation
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-27T07:59:34+08:00
+lastmod: 2023-03-16T12:30:43+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:53.754229Z'
+publishDate: '2023-03-16T04:30:42.833255Z'
 publication_types:
 - '1'
 abstract: In the recent past, neural architecture search (NAS) has attracted increasing

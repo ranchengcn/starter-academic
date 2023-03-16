@@ -10,16 +10,16 @@ authors:
 - Xingyi Zhang
 - Yaochu Jin
 tags:
-- '"Evolutionary computation"'
-- '"Optimization"'
-- '"Sociology"'
-- '"Statistics"'
-- '"Sorting"'
-- '"Evolution (biology)"'
-- '"Runtime"'
+- Evolutionary computation
+- Sociology
+- Optimization
+- Statistics
+- Evolution (biology)
+- Sorting
+- Runtime
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-27T07:59:33+08:00
+lastmod: 2023-03-16T12:30:45+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T11:20:48.656798Z'
+publishDate: '2023-03-16T04:30:45.067426Z'
 publication_types:
 - '1'
 abstract: It has been widely recognized that evolutionary computation is one of the
