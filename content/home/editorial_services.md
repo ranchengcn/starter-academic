@@ -23,7 +23,7 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- organization: 'IEEE Transactions on Evolutionary Computation'
+- organization: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
   title: 'Associate Editor'
   date_start: "2023-01-01"
   date_end: ""
