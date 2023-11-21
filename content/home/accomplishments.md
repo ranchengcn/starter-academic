@@ -25,9 +25,9 @@ date_format: '2006-01-02'
 item:
 - date_end: ""
   date_start: "2023-11-15"
-  description: "Clarivate Hihgly Cited Researcher"
-  organization: 'Clarivate'
-  title: 'Hihgly Cited Researcher'
+  description: "Clarivate Highly Cited Researcher"
+  organization: 'Clarivate/Web of Science'
+  title: 'Highly Cited Researcher'
   url: "https://clarivate.com/highly-cited-researchers/?action=clv_hcr_members_filter&clv-paged=1&clv-category=&clv-institution=&clv-region=&clv-name=Cheng%2C%20Ran&utm_medium=Organic%2FSearch&utm_source=www-google-com"
 - date_end: ""
   date_start: "2021-07-01"
