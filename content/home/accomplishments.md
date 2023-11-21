@@ -24,17 +24,17 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2018-07-01"
+  date_start: "2023-11-15"
+  description: "Clarivate Hihgly Cited Researcher"
+  organization: 'Clarivate'
+  title: 'Hihgly Cited Researcher'
+  url: "https://clarivate.com/highly-cited-researchers/?action=clv_hcr_members_filter&clv-paged=1&clv-category=&clv-institution=&clv-region=&clv-name=Cheng%2C%20Ran&utm_medium=Organic%2FSearch&utm_source=www-google-com"
+- date_end: ""
+  date_start: "2021-07-01"
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
   url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
-- date_end: ""
-  date_start: "2019-07-01"
-  description: "IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award"
-  organization: 'IEEE'
-  title: 'Outstanding PhD Dissertation Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward"
 - date_end: ""
   date_start: "2020-07-01"
   description: "IEEE Computational Intelligence Magazine Outstanding Paper Award"
@@ -42,12 +42,18 @@ item:
   title: 'Outstanding Paper Award'
   url: "https://cis.ieee.org/getting-involved/awards/past-recipients#CIMOutstandingPaperAward"
 - date_end: ""
-  date_start: "2021-07-01"
+  date_start: "2019-07-01"
+  description: "IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award"
+  organization: 'IEEE'
+  title: 'Outstanding PhD Dissertation Award'
+  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward"
+- date_end: ""
+  date_start: "2018-07-01"
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
   url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
-
+  
 design:
   columns: '2' 
 ---
