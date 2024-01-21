@@ -34,7 +34,7 @@ highlight_name: false
 title: Ran Cheng
 email: ""
 ---
-As the founder of the [Evolving Machine Intelligence (EMI) Group](https://www.emigroup.tech/), I am currently a tenured Associate Professor with the Southern University of Science and Technology (SUSTech), China.
+As the founder of the [Evolving Machine Intelligence (EMI) Group](https://www.emigroup.tech/) and co-founder of the [EvoX Project](http://evox.group/), I am currently a tenured Associate Professor with the Southern University of Science and Technology (SUSTech), China.
 Within the expansive realm of artificial intelligence (AI), my research delves into the intriguing study of how evolution fosters complexity, diversity, and intelligence through computational means. 
 Specifically, my primary research interests lie at the intersection of Evolutionary Computation and pivotal AI domains such as representation learning and reinforcement learning. 
 The ultimate goal is to deliver high-performance computational solutions that address optimization and modeling challenges in contemporary science and engineering.
