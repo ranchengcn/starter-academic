@@ -35,7 +35,7 @@ title: Ran Cheng
 email: ""
 ---
 As the founder of the [Evolving Machine Intelligence (EMI) Group](https://www.emigroup.tech/) and co-founder of the [EvoX Project](http://evox.group/), I am currently a tenured Associate Professor with the Southern University of Science and Technology (SUSTech), China.
- Within the expansive realm of artificial intelligence (AI), my research delves into the intriguing study of \textbf{Computational Intelligence}, where the target is to deliver {high-performance and intelligent computational approaches} to optimization and modeling challenges in contemporary science and engineering.
+ Within the expansive realm of artificial intelligence (AI), my research delves into the intriguing study of Computational Intelligence, where the target is to deliver {high-performance and intelligent computational approaches} to optimization and modeling challenges in contemporary science and engineering.
 
 I am the Founding Chair of [IEEE Computational Intelligence Society (CIS) Shenzhen Chapter](https://r10.ieee.org/shenzhen-cis/). I am serving as an Associated Editor/Editorial Board Member for several journals, including: ACM Transactions on Evolutionary Learning and Optimization, IEEE Transactions on Evolutionary Computation, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Transactions on Cognitive and Developmental Systems, IEEE Transactions on Artificial Intelligence, etc. 
 
