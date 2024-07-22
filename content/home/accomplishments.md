@@ -24,6 +24,12 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2025-07-01"
+  description: "IEEE Computational Intelligence Society (CIS) Outstanding Early Career Award"
+  organization: 'IEEE'
+  title: 'Outstanding Early Career Award'
+  url: "https://cis.ieee.org/awards/past-recipients"
+- date_end: ""
   date_start: "2023-11-15"
   description: "Clarivate Highly Cited Researcher"
   organization: 'Clarivate/Web of Science'
@@ -34,25 +40,25 @@ item:
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
+  url: "https://cis.ieee.org/awards/past-recipients"
 - date_end: ""
   date_start: "2020-07-01"
   description: "IEEE Computational Intelligence Magazine Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#CIMOutstandingPaperAward"
+  url: "https://cis.ieee.org/awards/past-recipients"
 - date_end: ""
   date_start: "2019-07-01"
   description: "IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award"
   organization: 'IEEE'
   title: 'Outstanding PhD Dissertation Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward"
+  url: "https://cis.ieee.org/awards/past-recipients"
 - date_end: ""
   date_start: "2018-07-01"
   description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
   organization: 'IEEE'
   title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
+  url: "https://cis.ieee.org/awards/past-recipients"
   
 design:
   columns: '2' 
