@@ -23,15 +23,21 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: 'DOCS 2024'
+  title: 'Program Chair'
+  description: "2024 International Conference on Communications, Information System and Computer Engineering, Guangzhou, China"
+  date_start: "2024-08-16"
+  date_end: "2024-08-17"
+  url: "http://www.iccisce.com/"
 - organization: 'CISCE 2023'
   title: 'Publicity Chair'
-  description: "2023 5th International Conference on Communications, Information System and Computer Engineering, Guangzhou, China"
+  description: "2023 International Conference on Communications, Information System and Computer Engineering, Guangzhou, China"
   date_start: "2023-04-14"
   date_end: "2023-04-16"
   url: "http://www.iccisce.com/"
 - organization: 'CSAI 2022'
   title: 'Program Co-Chair'
-  description: "2022 6th International Conference on Computer Science and Artificial Intelligence, Beijing, China"
+  description: "2022 International Conference on Computer Science and Artificial Intelligence, Beijing, China"
   date_start: "2022-12-09"
   date_end: "2022-12-11"
   url: "http://www.csai.org/"
