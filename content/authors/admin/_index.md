@@ -12,8 +12,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=bjeIdlcAAAAJ&hl=en
-  - icon: clarivate
-    icon_pack: ai
+  - icon: file
+    icon_pack: fas
     link: https://publons.com/researcher/1307307/ran-cheng/
 organizations:
   - name: Evolving Machine Intelligence Group
