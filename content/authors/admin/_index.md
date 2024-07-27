@@ -9,7 +9,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ranchengcn@gmail.com
-  - icon: graduation-cap
+  - icon: google
     icon_pack: fas
     link: https://scholar.google.com/citations?user=bjeIdlcAAAAJ&hl=en
   - icon: file
